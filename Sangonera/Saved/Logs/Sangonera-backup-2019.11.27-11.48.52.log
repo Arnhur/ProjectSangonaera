@@ -1,0 +1,1515 @@
+﻿Log file open, 11/26/19 19:00:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sangonera
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.061216
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=xPsychoPanda -epicuserid=98a002d0812b45ff9fe2e219cde04a54 -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.26-18.00.39:218][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.26-18.00.39:219][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.26-18.00.39:219][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.26-18.00.39:219][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.26-18.00.39:221][  0]LogHAL: Display: Platform has ~ 32 GB [34288087040 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.26-18.00.39:221][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.26-18.00.39:221][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.26-18.00.39:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.26-18.00.39:222][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2019.11.26-18.00.39:222][  0]LogInit: Computer: SA10CICLOS
+[2019.11.26-18.00.39:222][  0]LogInit: User: ggomis
+[2019.11.26-18.00.39:222][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.11.26-18.00.39:222][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.26-18.00.39:222][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.26-18.00.39:222][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.26-18.00.39:222][  0]LogMemory: Process Physical Memory: 105.76 MB used, 105.76 MB peak
+[2019.11.26-18.00.39:222][  0]LogMemory: Process Virtual Memory: 103.44 MB used, 103.44 MB peak
+[2019.11.26-18.00.39:222][  0]LogMemory: Physical Memory: 7245.77 MB used,  25453.89 MB free, 32699.67 MB total
+[2019.11.26-18.00.39:222][  0]LogMemory: Virtual Memory: 4708.38 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2019.11.26-18.00.39:226][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.26-18.00.39:244][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.11.26-18.00.39:244][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.11.26-18.00.39:361][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.26-18.00.39:387][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.26-18.00.39:387][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.26-18.00.39:500][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.26-18.00.39:500][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.26-18.00.39:557][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2019.11.26-18.00.39:557][  0]LogD3D11RHI:       5980/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.26-18.00.39:559][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.26-18.00.39:559][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.26-18.00.39:559][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.26-18.00.39:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.26-18.00.39:564][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.26-18.00.39:564][  0]LogWindows: EnumDisplayDevices:
+[2019.11.26-18.00.39:564][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2019.11.26-18.00.39:565][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.26-18.00.39:565][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.26-18.00.39:565][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2019.11.26-18.00.39:565][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.26-18.00.39:565][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2019.11.26-18.00.39:565][  0]LogD3D11RHI:   Driver Version: 441.20 (internal:26.21.14.4120, unified:441.20)
+[2019.11.26-18.00.39:565][  0]LogD3D11RHI:      Driver Date: 11-6-2019
+[2019.11.26-18.00.39:565][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2019.11.26-18.00.39:598][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.26-18.00.39:620][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.26-18.00.39:828][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.26-18.00.39:834][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.26-18.00.39:840][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.26-18.00.39:847][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.26-18.00.39:854][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.26-18.00.39:862][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.26-18.00.39:871][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.26-18.00.39:878][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.26-18.00.39:883][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.26-18.00.39:909][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.26-18.00.39:911][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.26-18.00.39:923][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.26-18.00.39:923][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.26-18.00.39:933][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.26-18.00.39:933][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.26-18.00.39:938][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.26-18.00.39:944][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.26-18.00.39:949][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.26-18.00.39:954][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.26-18.00.39:972][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.26-18.00.39:972][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.26-18.00.39:972][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.26-18.00.39:979][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.26-18.00.40:014][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Intermediate/Shaders/WorkingDirectory/6708/).
+[2019.11.26-18.00.40:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/g.gomis/AppData/Local/Temp/UnrealShaderWorkingDir/0B8F11164EFD3C117C1FE8B7AF67B9A2/'.
+[2019.11.26-18.00.40:016][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.26-18.00.40:016][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.26-18.00.40:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.26-18.00.40:468][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/g.gomis/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/g.gomis/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.26-18.00.40:508][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.26-18.00.40:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.26-18.00.40:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.26-18.00.40:517][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.26-18.00.40:518][  0]LogDerivedDataCache: Using Local data cache path C:/Users/g.gomis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.26-18.00.40:518][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.26-18.00.40:518][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.26-18.00.40:534][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.26-18.00.40:536][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.26-18.00.40:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.26-18.00.40:546][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:546][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:546][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:549][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:550][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:551][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.40:578][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2019.11.26-18.00.40:773][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.26-18.00.40:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.26-18.00.40:880][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.26-18.00.40:880][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.26-18.00.40:880][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.26-18.00.40:880][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.26-18.00.40:887][  0]LogNetVersion: Sangonera 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2086811745)
+[2019.11.26-18.00.41:190][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.030672 seconds
+[2019.11.26-18.00.41:199][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.26-18.00.41:199][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.26-18.00.41:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.26-18.00.41:287][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.41:288][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.41:817][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.26-18.00.41:819][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.26-18.00.41:860][  0]SourceControl: Source control is disabled
+[2019.11.26-18.00.41:860][  0]SourceControl: Source control is disabled
+[2019.11.26-18.00.41:861][  0]SourceControl: Source control is disabled
+[2019.11.26-18.00.41:862][  0]SourceControl: Source control is disabled
+[2019.11.26-18.00.41:942][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.26-18.00.42:044][  0]LogOcInput: OculusInput pre-init called
+[2019.11.26-18.00.42:084][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:084][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:084][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:087][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:088][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:089][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:169][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:169][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.26-18.00.42:511][  0]LogEngine: Initializing Engine...
+[2019.11.26-18.00.42:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.26-18.00.42:512][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.26-18.00.42:673][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.26-18.00.42:684][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.26-18.00.42:708][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-18.00.42:735][  0]LogInit: FAudioDevice initialized.
+[2019.11.26-18.00.42:736][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.26-18.00.42:801][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/g.gomis/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.26-18.00.42:804][  0]LogInit: Texture streaming: Enabled
+[2019.11.26-18.00.42:817][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.26-18.00.42:817][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.26-18.00.42:818][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.26-18.00.42:852][  0]LogInit: Transaction tracking system initialized
+[2019.11.26-18.00.42:875][  0]BlueprintLog: New page: Editor Load
+[2019.11.26-18.00.42:930][  0]LocalizationService: Localization service is disabled
+[2019.11.26-18.00.43:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/' took 0.00s
+[2019.11.26-18.00.43:143][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.26-18.00.43:143][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.26-18.00.43:276][  0]SourceControl: Source control is disabled
+[2019.11.26-18.00.43:276][  0]Cmd: MAP LOAD FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-18.00.43:278][  0]LightingResults: New page: Lighting Build
+[2019.11.26-18.00.43:280][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.00.43:280][  0]MapCheck: New page: Map Check
+[2019.11.26-18.00.43:281][  0]LightingResults: New page: Lighting Build
+[2019.11.26-18.00.43:304][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.26-18.00.43:565][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.26-18.00.43:576][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-18.00.43:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.11.26-18.00.43:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-18.00.43:603][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.11.26-18.00.43:603][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.327
+[2019.11.26-18.00.43:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.00.43:745][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.00.43:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.00.43:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.00.43:827][  0]LogCollectionManager: Loaded 0 collections in 0.001413 seconds
+[2019.11.26-18.00.43:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Collections/' took 0.00s
+[2019.11.26-18.00.43:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/Developers/ggomis/Collections/' took 0.00s
+[2019.11.26-18.00.43:848][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/Collections/' took 0.00s
+[2019.11.26-18.00.43:848][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.26-18.00.43:858][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2864 classes and 682 folders.
+[2019.11.26-18.00.43:871][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.26-18.00.43:978][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.26-18.00.43:985][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.26-18.00.43:987][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.26-18.00.43:995][  0]LogSlate: Took 0.001200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.26-18.00.44:049][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2019.11.26-18.00.44:135][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.26-18.00.44:135][  0]LogLoad: (Engine Initialization) Total time: 6.23 seconds
+[2019.11.26-18.00.44:135][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.26-18.00.44:148][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.26-18.00.44:184][  0]LogAssetRegistry: Asset discovery search completed in 3.6070 seconds
+[2019.11.26-18.00.44:187][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.26-18.00.44:187][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.11.26-18.00.44:189][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.26-18.00.44:213][  0]LogSlate: Took 0.001199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.26-18.00.45:155][100]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.26-18.01.44:141][178]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5116DB7F-4287-9B26-88E1-F99EA67B3215}
+[2019.11.26-18.01.53:927][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-18.01.54:347][399]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2019.11.26-18.01.54:562][399]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.26-18.01.55:233][399]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2019.11.26-18.01.55:477][399]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenu.PauseMenu
+[2019.11.26-18.01.55:710][399]LogLinker: Warning: Failed to load '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu': Can't resolve asset name
+[2019.11.26-18.01.55:722][399]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.11.26-18.01.56:218][399]LogSlate: Took 0.001711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.26-18.01.56:324][400]LogSlate: Took 0.001743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.26-18.03.08:917][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-18.03.08:967][ 43]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-18.03.08:990][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.26-18.03.08:990][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-18.03.08:990][ 43]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 26, 2019, 8:03:08 PM)
+[2019.11.26-18.03.08:991][ 43]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.26-18.03.08:992][ 43]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.26-18.03.09:004][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011924s)
+[2019.11.26-18.03.09:006][ 43]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.26-18.03.09:006][ 43]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2019.11.26-18.03.09:006][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013918s)
+[2019.11.26-18.03.09:063][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.26-18.03.09:076][ 43]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-18.03.09:087][ 43]LogInit: FAudioDevice initialized.
+[2019.11.26-18.03.09:096][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.03.09:101][ 43]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-18.03.09:103][ 43]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.26-19.03.09
+[2019.11.26-18.03.09:103][ 43]LogWorld: Bringing up level for play took: 0.001729
+[2019.11.26-18.03.09:104][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.26-18.03.09:114][ 43]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.11.26-18.03.09:118][ 43]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.474
+[2019.11.26-18.03.09:118][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.26-18.03.09:162][ 44]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.11.26-18.03.10:798][212]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-18.03.10:807][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.26-18.03.10:807][212]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.26-18.03.10:807][212]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.03.10:822][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-18.03.10:823][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.26-18.03.10:890][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.11.26-18.03.10:916][213]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.26-18.03.15:414][748]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-18.03.15:418][748]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/MainMenu.MainMenu
+[2019.11.26-18.03.15:464][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.26-18.03.15:465][748]Cmd: MAP LOAD FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-18.03.15:465][748]LightingResults: New page: Lighting Build
+[2019.11.26-18.03.15:465][748]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.11.26-18.03.15:466][748]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.03.15:466][748]MapCheck: New page: Map Check
+[2019.11.26-18.03.15:466][748]LightingResults: New page: Lighting Build
+[2019.11.26-18.03.15:500][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.26-18.03.15:503][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-18.03.15:536][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.11.26-18.03.15:550][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-18.03.15:551][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2019.11.26-18.03.15:551][748]LogFileHelpers: Loading map 'MainMenu' took 0.086
+[2019.11.26-18.03.16:383][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-18.03.16:404][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-18.03.16:405][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-18.03.16:405][843]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 8:03:16 PM)
+[2019.11.26-18.03.16:405][843]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-18.03.16:406][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000757s)
+[2019.11.26-18.03.16:406][843]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-18.03.16:406][843]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.11.26-18.03.16:406][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001618s)
+[2019.11.26-18.03.16:440][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.26-18.03.16:452][843]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-18.03.16:461][843]LogInit: FAudioDevice initialized.
+[2019.11.26-18.03.16:471][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.03.16:471][843]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-18.03.16:472][843]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-19.03.16
+[2019.11.26-18.03.16:472][843]LogWorld: Bringing up level for play took: 0.000384
+[2019.11.26-18.03.16:472][843]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.26-18.03.16:481][843]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-18.03.16:483][843]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu -0.161
+[2019.11.26-18.03.16:483][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-18.03.19:054][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-18.03.23:613][695]LogNet: Browse: /Game/Scenes/Tutorial
+[2019.11.26-18.03.23:615][695]LogLoad: LoadMap: /Game/Scenes/Tutorial
+[2019.11.26-18.03.23:615][695]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-18.03.23:615][695]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.03.23:649][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.26-18.03.23:883][695]LogAIModule: Creating AISystem for world Tutorial
+[2019.11.26-18.03.23:883][695]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-18.03.23:893][695]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.11.26-19.03.23
+[2019.11.26-18.03.23:893][695]LogWorld: Bringing up level for play took: 0.008756
+[2019.11.26-18.03.23:896][695]LogLoad: Took 0.281158 seconds to LoadMap(/Game/Scenes/Tutorial)
+[2019.11.26-18.06.45:461][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-18.06.45:461][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.06.45:461][867]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tutorial
+[2019.11.26-18.06.45:470][867]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-18.06.45:478][867]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.06.45:489][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-18.06.45:490][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-18.06.45:540][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.26-18.06.45:560][869]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.26-18.10.44:855][161]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5A5A5500-47CF-C022-7F17-D2B3B2D2D697}
+[2019.11.26-18.14.39:719][545]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/VideoSettings.VideoSettings
+[2019.11.26-18.15.33:885][744]LogSlate: Took 0.009445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.26-18.21.05:282][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.11.26-18.21.05:282][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.042
+[2019.11.26-18.21.05:284][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-18.21.05:284][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-18.21.05:295][534]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto13F3BE6B34A7DA389C8139F8459400534.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto1.uasset'
+[2019.11.26-18.21.05:295][534]LogFileHelpers: Auto-saving content packages took 0.012
+[2019.11.26-18.21.46:554][424]Cmd: TRANSACTION UNDO
+[2019.11.26-18.21.46:554][424]LogEditorTransaction: Undo Edit Padding
+[2019.11.26-18.21.47:165][474]Cmd: TRANSACTION UNDO
+[2019.11.26-18.21.47:165][474]LogEditorTransaction: Undo Edit Padding
+[2019.11.26-18.22.57:967][359]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.26-18.22.58:642][426]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/UMG/Editor/Transient.Setting or HorizontalBox /Engine/UMG/Editor/Transient.Setting
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0
+[2019.11.26-18.23.02:036][826]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_0
+[2019.11.26-18.23.02:037][826]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Engine/UMG/Editor/Transient.TextBlock_284 or TextBlock /Engine/UMG/Editor/Transient.TextBlock_284
+[2019.11.26-18.23.02:037][826]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_380 or HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_380
+[2019.11.26-18.23.02:037][826]LogUObjectHash: Warning: Ambiguous search, could be Button /Engine/UMG/Editor/Transient.Button_119 or Button /Engine/UMG/Editor/Transient.Button_119
+[2019.11.26-18.23.02:037][826]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Engine/UMG/Editor/Transient.TextBlock_661 or TextBlock /Engine/UMG/Editor/Transient.TextBlock_661
+[2019.11.26-18.23.02:038][826]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Engine/UMG/Editor/Transient.TextBlock_452 or TextBlock /Engine/UMG/Editor/Transient.TextBlock_452
+[2019.11.26-18.23.02:038][826]LogUObjectHash: Warning: Ambiguous search, could be Button /Engine/UMG/Editor/Transient.Button_411 or Button /Engine/UMG/Editor/Transient.Button_411
+[2019.11.26-18.23.02:038][826]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Engine/UMG/Editor/Transient.TextBlock_1365 or TextBlock /Engine/UMG/Editor/Transient.TextBlock_1365
+[2019.11.26-18.29.05:376][529]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-18.29.05:424][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.26-18.29.06:307][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.29.06:331][617]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings77A529C4421B564EF2587B8DF18FB98C.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.29.37:118][356]LogSlate: Took 0.003013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.26-18.32.40:976][500]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(292)].
+[2019.11.26-18.32.41:044][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.11.26-18.32.41:044][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.039
+[2019.11.26-18.32.41:045][500]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-18.32.41:045][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-18.32.41:065][500]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto2DFF935CF4468224B4A36B68F7E111334.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto2.uasset'
+[2019.11.26-18.32.41:066][500]LogFileHelpers: Auto-saving content packages took 0.021
+[2019.11.26-18.38.38:715][418]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-18.38.38:773][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.11.26-18.38.41:618][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.38.41:642][747]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings845FFF05446225DCE3B0AFB5441BD330.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.40.20:126][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.40.20:147][538]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings7E80404D4DAF5DA766BECC9A67050D6F.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.43.43:250][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.11.26-18.43.43:250][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.041
+[2019.11.26-18.43.43:251][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-18.43.43:251][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-18.43.43:274][773]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto370B1C9B245E3F2AE4D07019555F5A3D8.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto3.uasset'
+[2019.11.26-18.43.43:274][773]LogFileHelpers: Auto-saving content packages took 0.023
+[2019.11.26-18.53.01:424][523]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-18.53.01:429][523]LogClass: Warning: Type mismatch in GraphicalIndex of VideoSettings_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.26-18.53.01:429][523]LogClass: Warning: Type mismatch in PPIndex of VideoSettings_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.26-18.53.01:429][523]LogClass: Warning: Type mismatch in AAIndex of VideoSettings_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.26-18.53.01:429][523]LogClass: Warning: Type mismatch in ShadowIndex of VideoSettings_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.26-18.53.01:429][523]LogClass: Warning: Type mismatch in FPSIndex of VideoSettings_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
+[2019.11.26-18.53.01:474][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.26-18.53.02:090][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.53.02:114][589]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings1910AA6A4E66FF069D6D3BACBCF13F91.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.53.38:643][202]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-18.53.38:688][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.11.26-18.53.39:066][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.53.39:089][239]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings23CF1AA34683EE8034A51CB083A906E4.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.55.12:993][668]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-18.55.13:044][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.11.26-18.55.13:364][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-18.55.13:387][700]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings8D8BD4C64EB0798A63B9D498599863FE.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-18.56.48:798][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.11.26-18.56.48:798][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.038
+[2019.11.26-18.56.48:800][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-18.56.48:800][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-18.56.48:822][543]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto4B7241DFF4EAC174CE11F2B9BC8ABBB5C.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto4.uasset'
+[2019.11.26-18.56.48:822][543]LogFileHelpers: Auto-saving content packages took 0.023
+[2019.11.26-19.00.05:768][507]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.00.05:821][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.26-19.10.34:208][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2019.11.26-19.10.34:208][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.044
+[2019.11.26-19.10.34:210][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-19.10.34:210][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-19.10.34:249][334]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto51A6E404348FFEBEC9A51628DB34FBE1E.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto5.uasset'
+[2019.11.26-19.10.34:249][334]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.11.26-19.20.34:508][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.11.26-19.20.34:508][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.043
+[2019.11.26-19.20.34:509][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/VideoSettings] ([1] browsable assets)...
+[2019.11.26-19.20.34:509][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/VideoSettings]
+[2019.11.26-19.20.34:555][730]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings_Auto6704D61D0433B5B026789969AEE597918.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/VideoSettings_Auto6.uasset'
+[2019.11.26-19.20.34:556][730]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.11.26-19.27.37:759][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.27.37:810][542]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettingsCB557BC341DCF034D0252FB39EDA1570.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.28.48:327][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.28.48:379][302]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings99BA4EA24862E96628C33C9FF138FFFA.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.28.49:274][394]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.28.49:283][394]LogBlueprint: Error: [Compiler VideoSettings] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.11.26-19.28.49:332][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.11.26-19.28.50:537][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.28.50:590][517]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettingsF9D948E84779E799767EF798885EEFD9.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.30.04:486][152]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.30.04:543][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.26-19.30.05:482][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.30.05:540][242]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettingsF668F9E647026B14610258B072772871.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.30.46:400][823]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.11.26-19.32.29:058][311]BlueprintLog: New page: Compile Options
+[2019.11.26-19.32.29:113][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.26-19.32.30:154][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2019.11.26-19.32.30:168][416]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/OptionsEB5E4B064768D4C72F01F8B69CA8CBB7.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2019.11.26-19.33.09:701][642]BlueprintLog: New page: Compile Options
+[2019.11.26-19.33.09:751][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.26-19.33.10:352][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2019.11.26-19.33.10:367][707]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Options69C8F83B44A35F1FCA9FD5AF1ED0C17B.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2019.11.26-19.33.57:103][ 12]BlueprintLog: New page: Compile Options
+[2019.11.26-19.33.57:152][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.11.26-19.33.57:556][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2019.11.26-19.33.57:570][ 53]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Options9D48E0E945913FDFF93804A0D4082DA8.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2019.11.26-19.34.00:652][412]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.34.00:677][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.34.00:677][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.34.00:677][412]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:34:00 PM)
+[2019.11.26-19.34.00:677][412]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.34.00:678][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2019.11.26-19.34.00:679][412]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.34.00:679][412]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.11.26-19.34.00:679][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001663s)
+[2019.11.26-19.34.00:717][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.26-19.34.00:729][412]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.34.00:739][412]LogInit: FAudioDevice initialized.
+[2019.11.26-19.34.00:749][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.34.00:749][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.34.00:750][412]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.34.00
+[2019.11.26-19.34.00:750][412]LogWorld: Bringing up level for play took: 0.000259
+[2019.11.26-19.34.00:750][412]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.11.26-19.34.00:754][412]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.34.00:756][412]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu 0.091
+[2019.11.26-19.34.00:756][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.34.01:906][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.34.04:250][828]Cmd: r.ScreenPercentage 100
+[2019.11.26-19.34.04:252][828]r.ScreenPercentage = "100"
+[2019.11.26-19.34.04:625][873]LogScript: Warning: Attempted to access index 4 from array GraphicalCommands of length 4!
+	VideoSettings_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.MainMenu_C_0.WidgetTree_0.Options_C_0.WidgetTree_0.VideoSettings_C_0
+	Function /Game/UI/VideoSettings.VideoSettings_C:ExecuteUbergraph_VideoSettings:0119
+[2019.11.26-19.34.04:625][873]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array GraphicalCommands of length 4!". Blueprint:  VideoSettings Function:  Execute Ubergraph Video Settings Graph:  EventGraph Node:  Execute Console Command
+[2019.11.26-19.34.05:293][953]Cmd: r.ScreenPercentage 100
+[2019.11.26-19.34.05:293][953]r.ScreenPercentage = "100"
+[2019.11.26-19.34.05:425][969]Cmd: r.ScreenPercentage 75
+[2019.11.26-19.34.05:425][969]r.ScreenPercentage = "75"
+[2019.11.26-19.34.06:178][ 59]Cmd: sg.PostProcessQuality 3
+[2019.11.26-19.34.06:178][ 59]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-19.34.06:178][ 59]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-19.34.06:178][ 59]sg.PostProcessQuality = "3"
+[2019.11.26-19.34.06:312][ 75]LogScript: Warning: Attempted to access index 4 from array PPComands of length 4!
+	VideoSettings_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.MainMenu_C_0.WidgetTree_0.Options_C_0.WidgetTree_0.VideoSettings_C_0
+	Function /Game/UI/VideoSettings.VideoSettings_C:ExecuteUbergraph_VideoSettings:0245
+[2019.11.26-19.34.06:312][ 75]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array PPComands of length 4!". Blueprint:  VideoSettings Function:  Execute Ubergraph Video Settings Graph:  EventGraph Node:  Execute Console Command
+[2019.11.26-19.34.06:803][134]Cmd: sg.PostProcessQuality 3
+[2019.11.26-19.34.06:803][134]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-19.34.06:803][134]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-19.34.06:803][134]sg.PostProcessQuality = "3"
+[2019.11.26-19.34.06:936][150]Cmd: sg.PostProcessQuality 2
+[2019.11.26-19.34.06:936][150]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.11.26-19.34.06:936][150]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.11.26-19.34.06:937][150]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.11.26-19.34.06:937][150]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.26-19.34.06:937][150]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.26-19.34.06:937][150]sg.PostProcessQuality = "2"
+[2019.11.26-19.34.09:271][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.34.09:353][439]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.34.09:360][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.34.09:360][439]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.34.09:360][439]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.34.09:367][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.34.09:367][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.34.09:416][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.26-19.34.09:464][440]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.26-19.34.16:455][276]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-19.34.16:463][276]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-19.35.23:288][765]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.35.23:350][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.26-19.35.23:727][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.35.23:787][787]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings09C7682A44F57BF778620B9B4785538A.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.35.27:419][139]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.35.27:444][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.35.27:444][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.35.27:445][139]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:35:27 PM)
+[2019.11.26-19.35.27:445][139]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.35.27:446][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2019.11.26-19.35.27:446][139]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.35.27:446][139]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.11.26-19.35.27:446][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001748s)
+[2019.11.26-19.35.27:486][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.11.26-19.35.27:497][139]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.35.27:507][139]LogInit: FAudioDevice initialized.
+[2019.11.26-19.35.27:517][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.35.27:518][139]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.35.27:518][139]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.35.27
+[2019.11.26-19.35.27:519][139]LogWorld: Bringing up level for play took: 0.000358
+[2019.11.26-19.35.27:519][139]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.11.26-19.35.27:522][139]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.35.27:525][139]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu 0.861
+[2019.11.26-19.35.27:526][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.35.29:333][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.35.32:629][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.35.32:712][757]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.35.32:720][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.35.32:720][757]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.35.32:720][757]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.35.32:725][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.35.32:725][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.35.32:773][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.26-19.35.32:805][760]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.26-19.37.24:133][527]LogEditorTransaction: Undo Move Widget
+[2019.11.26-19.38.07:865][981]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.38.07:934][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.26-19.38.08:250][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.38.08:309][  3]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings05F857CC4B1D70C07784758BC0F6E149.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.38.32:414][559]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.38.32:476][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.26-19.38.32:966][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.38.33:028][604]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings75CE37F244E1131626A70081913F722C.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.40.00:149][216]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.40.00:212][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.26-19.40.00:563][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.40.00:622][240]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettingsE67B0CFA4E170E2A55E63286FD12EAE9.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.40.04:536][648]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.40.04:565][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.04:565][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.40.04:565][648]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:40:04 PM)
+[2019.11.26-19.40.04:565][648]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.40.04:566][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000829s)
+[2019.11.26-19.40.04:567][648]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.40.04:567][648]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.11.26-19.40.04:567][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001670s)
+[2019.11.26-19.40.04:604][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.11.26-19.40.04:616][648]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.40.04:627][648]LogInit: FAudioDevice initialized.
+[2019.11.26-19.40.04:638][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.40.04:638][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.40.04:639][648]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.40.04
+[2019.11.26-19.40.04:639][648]LogWorld: Bringing up level for play took: 0.000378
+[2019.11.26-19.40.04:640][648]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.11.26-19.40.04:643][648]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.40.04:647][648]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu -0.018
+[2019.11.26-19.40.04:647][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.05:697][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.40.10:625][360]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.40.10:634][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.10:634][360]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.40.10:634][360]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.40.10:643][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.40.10:643][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.10:694][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.26-19.40.10:724][362]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.26-19.40.19:241][233]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.26-19.40.21:602][481]BlueprintLog: New page: Compile VideoSettings
+[2019.11.26-19.40.21:666][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.11.26-19.40.22:298][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.40.22:358][537]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettingsDC9428DC42665240F29F6988BADCD24C.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.40.25:094][854]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.40.25:120][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.25:120][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.40.25:120][854]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:40:25 PM)
+[2019.11.26-19.40.25:120][854]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.40.25:121][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000990s)
+[2019.11.26-19.40.25:122][854]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.40.25:123][854]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2019.11.26-19.40.25:123][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.002201s)
+[2019.11.26-19.40.25:160][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.11.26-19.40.25:172][854]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.40.25:182][854]LogInit: FAudioDevice initialized.
+[2019.11.26-19.40.25:191][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.40.25:191][854]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.40.25:193][854]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.40.25
+[2019.11.26-19.40.25:193][854]LogWorld: Bringing up level for play took: 0.000424
+[2019.11.26-19.40.25:193][854]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.26-19.40.25:197][854]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.40.25:201][854]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu 0.536
+[2019.11.26-19.40.25:201][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.26:286][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.40.28:115][201]Cmd: r.ScreenPercentage 100
+[2019.11.26-19.40.28:115][201]r.ScreenPercentage = "100"
+[2019.11.26-19.40.32:106][678]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.40.32:114][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.32:114][678]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.40.32:114][678]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.40.32:124][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.40.32:124][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.40.32:172][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.26-19.40.32:203][681]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.26-19.40.58:334][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2019.11.26-19.40.58:348][447]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/Options9BC9F24E4AC6F54CC15FF382FF51530C.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2019.11.26-19.41.02:220][805]LogSlate: Window 'MainMenu' being destroyed
+[2019.11.26-19.41.02:226][805]LogSlate: Window 'MainMenu' being destroyed
+[2019.11.26-19.41.02:230][805]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:244][805]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:278][805]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:283][805]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:315][805]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:319][805]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:352][805]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:392][805]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:397][805]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.02:436][805]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.03:411][919]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.41.03:421][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.03:421][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.41.03:421][919]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:41:03 PM)
+[2019.11.26-19.41.03:421][919]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.03:422][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000886s)
+[2019.11.26-19.41.03:423][919]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.41.03:423][919]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2019.11.26-19.41.03:423][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001781s)
+[2019.11.26-19.41.03:472][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.11.26-19.41.03:483][919]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.41.03:493][919]LogInit: FAudioDevice initialized.
+[2019.11.26-19.41.03:502][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.41.03:503][919]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.41.03:504][919]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.41.03
+[2019.11.26-19.41.03:504][919]LogWorld: Bringing up level for play took: 0.000507
+[2019.11.26-19.41.03:504][919]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.26-19.41.03:508][919]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.41.03:510][919]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu 0.844
+[2019.11.26-19.41.03:510][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.04:724][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.41.14:149][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.41.26:093][623]LogNet: Browse: /Game/Scenes/Tutorial
+[2019.11.26-19.41.26:093][623]LogLoad: LoadMap: /Game/Scenes/Tutorial
+[2019.11.26-19.41.26:093][623]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.26:094][623]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.26:123][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.26-19.41.26:255][623]LogAIModule: Creating AISystem for world Tutorial
+[2019.11.26-19.41.26:255][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.41.26:265][623]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2019.11.26-20.41.26
+[2019.11.26-19.41.26:265][623]LogWorld: Bringing up level for play took: 0.008977
+[2019.11.26-19.41.26:267][623]LogLoad: Took 0.173250 seconds to LoadMap(/Game/Scenes/Tutorial)
+[2019.11.26-19.41.27:103][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.27:103][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.41.27:103][721]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Tutorial
+[2019.11.26-19.41.27:112][721]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.41.27:119][721]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.27:130][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.41.27:130][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.27:176][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.11.26-19.41.27:202][724]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.26-19.41.28:494][879]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.41.28:502][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.28:502][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.41.28:502][879]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:41:28 PM)
+[2019.11.26-19.41.28:502][879]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.28:503][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2019.11.26-19.41.28:504][879]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.41.28:504][879]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2019.11.26-19.41.28:504][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001753s)
+[2019.11.26-19.41.28:529][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.26-19.41.28:540][879]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.41.28:550][879]LogInit: FAudioDevice initialized.
+[2019.11.26-19.41.28:560][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.41.28:560][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.41.28:561][879]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.41.28
+[2019.11.26-19.41.28:561][879]LogWorld: Bringing up level for play took: 0.000269
+[2019.11.26-19.41.28:561][879]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.11.26-19.41.28:565][879]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.41.28:566][879]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu -0.099
+[2019.11.26-19.41.28:567][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.29:788][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.41.29:846][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.41.29:846][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.29:846][ 30]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.29:854][ 30]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.41.29:862][ 30]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.29:868][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.41.29:869][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.29:905][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.11.26-19.41.29:954][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.11.26-19.41.30:737][129]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.26-19.41.30:747][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.30:747][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.26-19.41.30:747][129]PIE: New page: PIE session: MainMenu (Nov 26, 2019, 9:41:30 PM)
+[2019.11.26-19.41.30:747][129]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.30:748][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000827s)
+[2019.11.26-19.41.30:749][129]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.26-19.41.30:749][129]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.11.26-19.41.30:749][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.001630s)
+[2019.11.26-19.41.30:775][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.26-19.41.30:786][129]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (3- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-19.41.30:796][129]LogInit: FAudioDevice initialized.
+[2019.11.26-19.41.30:806][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-19.41.30:806][129]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.26-19.41.30:807][129]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.26-20.41.30
+[2019.11.26-19.41.30:807][129]LogWorld: Bringing up level for play took: 0.000445
+[2019.11.26-19.41.30:807][129]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.26-19.41.30:811][129]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.11.26-19.41.30:812][129]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainMenu 0.148
+[2019.11.26-19.41.30:813][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.31:505][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.41.33:505][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-19.41.33:562][457]Cmd: r.ScreenPercentage 100
+[2019.11.26-19.41.33:562][457]r.ScreenPercentage = "100"
+[2019.11.26-19.41.33:688][472]LogScript: Warning: Attempted to access index 4 from array GraphicalCommands of length 4!
+	VideoSettings_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.MainMenu_C_0.WidgetTree_0.Options_C_0.WidgetTree_0.VideoSettings_C_0
+	Function /Game/UI/VideoSettings.VideoSettings_C:ExecuteUbergraph_VideoSettings:0119
+[2019.11.26-19.41.33:688][472]PIE: Error: Blueprint Runtime Error: "Attempted to access index 4 from array GraphicalCommands of length 4!". Blueprint:  VideoSettings Function:  Execute Ubergraph Video Settings Graph:  EventGraph Node:  Execute Console Command
+[2019.11.26-19.41.33:820][488]LogScript: Warning: Attempted to access index 5 from array GraphicalCommands of length 4!
+	VideoSettings_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.MainMenu_C_0.WidgetTree_0.Options_C_0.WidgetTree_0.VideoSettings_C_0
+	Function /Game/UI/VideoSettings.VideoSettings_C:ExecuteUbergraph_VideoSettings:0119
+[2019.11.26-19.41.33:821][488]PIE: Error: Blueprint Runtime Error: "Attempted to access index 5 from array GraphicalCommands of length 4!". Blueprint:  VideoSettings Function:  Execute Ubergraph Video Settings Graph:  EventGraph Node:  Execute Console Command
+[2019.11.26-19.41.36:103][761]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.26-19.41.36:111][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.36:111][761]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2019.11.26-19.41.36:111][761]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.41.36:118][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-19.41.36:119][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Scenes/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Scenes/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.26-19.41.36:155][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.26-19.41.36:203][764]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.26-19.41.49:554][364]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-19.41.49:562][364]LogSlate: Window 'Message Log' being destroyed
+[2019.11.26-19.41.53:360][818]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/VideoSettings.VideoSettings
+[2019.11.26-19.42.33:037][164]LogSlate: Window 'VideoSettings' being destroyed
+[2019.11.26-19.42.33:045][164]LogSlate: Window 'VideoSettings' being destroyed
+[2019.11.26-19.42.33:047][164]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.42.33:053][164]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.42.35:704][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/VideoSettings" FILE="../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset" SILENT=true
+[2019.11.26-19.42.35:761][475]LogSavePackage: Moving '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Saved/VideoSettings26561FE14BEBEA296A0C01A21FAF0672.tmp' to '../../../../../../Users/g.gomis/Documents/GitHub/ProjectSangonaera/Sangonera/Content/UI/VideoSettings.uasset'
+[2019.11.26-19.42.36:462][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.26-19.42.36:505][555]LogSlate: Window 'Sangonera - Unreal Editor' being destroyed
+[2019.11.26-19.42.36:507][555]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.26-19.42.36:598][556]Cmd: QUIT_EDITOR
+[2019.11.26-19.42.37:264][556]LogExit: Preparing to exit.
+[2019.11.26-19.42.37:953][556]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.42.37:990][556]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.26-19.42.37:999][556]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-19.42.38:020][556]LogExit: Editor shut down
+[2019.11.26-19.42.38:020][556]LogExit: Transaction tracking system shut down
+[2019.11.26-19.42.38:291][556]LogExit: Object subsystem successfully closed.
+[2019.11.26-19.42.38:314][556]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module SequencerWidgets (672)
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.11.26-19.42.38:334][556]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module SceneOutliner (658)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.26-19.42.38:335][556]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.26-19.42.38:336][556]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.26-19.42.39:164][556]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.26-19.42.39:165][556]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.26-19.42.39:165][556]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.26-19.42.39:165][556]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.26-19.42.39:165][556]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.26-19.42.39:219][556]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.26-19.42.39:224][556]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.26-19.42.39:224][556]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.26-19.42.39:224][556]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.26-19.42.39:224][556]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.26-19.42.39:225][556]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.26-19.42.39:228][556]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.26-19.42.39:445][556]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.26-19.42.39:446][556]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.26-19.42.39:548][556]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.26-19.42.39:648][556]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.26-19.42.39:648][556]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.26-19.42.39:649][556]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.26-19.42.39:649][556]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.26-19.42.39:649][556]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.26-19.42.39:649][556]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.26-19.42.39:649][556]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.26-19.42.39:650][556]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.26-19.42.39:650][556]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.26-19.42.39:650][556]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.26-19.42.39:650][556]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.26-19.42.39:650][556]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.26-19.42.39:651][556]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.26-19.42.39:652][556]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.26-19.42.39:653][556]LogDerivedDataCache: Shutdown
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.26-19.42.39:653][556]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.26-19.42.39:654][556]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.26-19.42.39:654][556]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.26-19.42.39:654][556]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.26-19.42.39:654][556]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.26-19.42.39:654][556]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.26-19.42.39:655][556]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.26-19.42.39:655][556]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.26-19.42.39:659][556]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.26-19.42.39:659][556]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.26-19.42.39:660][556]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.26-19.42.39:660][556]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.26-19.42.39:691][556]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.26-19.42.39:691][556]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.26-19.42.39:691][556]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7A93681D-4E7C-D3F8-A0CC-5DB85C2B4F04%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ba63f63c46c12a3393e21e9294167f69%7C98a002d0812b45ff9fe2e219cde04a54%7Cc7601eb2-7dee-4caf-a4d8-a8c0b67d1c60&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.26-19.42.39:697][556]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.26-19.42.39:698][556]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.26-19.42.39:701][556]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.26-19.42.39:702][556]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.26-19.42.39:703][556]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.26-19.42.39:704][556]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.26-19.42.39:704][556]LogD3D11RHI: Shutdown
+[2019.11.26-19.42.39:704][556]LogD3D11RHI: CleanupD3DDevice
+[2019.11.26-19.42.39:704][556]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-19.42.39:704][556]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-19.42.39:704][556]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-19.42.39:780][556]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.26-19.42.39:788][556]LogExit: Exiting.
+[2019.11.26-19.42.39:793][556]Log file closed, 11/26/19 20:42:39
