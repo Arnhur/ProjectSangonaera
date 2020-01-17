@@ -1,0 +1,1526 @@
+﻿Log file open, 01/16/20 19:29:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sangonera
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.060087
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AnimatedTexture
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=LordFalconYT -epicuserid=f0ab9611dc96463cb2d1d04728419348 -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:886][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.16-18.29.41:888][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.16-18.29.41:888][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.16-18.29.41:890][  0]LogHAL: Display: Platform has ~ 32 GB [34288066560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.16-18.29.41:890][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.16-18.29.41:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.01.16-18.29.41:890][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.16-18.29.41:891][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documentos/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.16-18.29.41:891][  0]LogInit: Computer: SA13CICLOS
+[2020.01.16-18.29.41:891][  0]LogInit: User: dborrego
+[2020.01.16-18.29.41:891][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.01.16-18.29.41:891][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.16-18.29.41:891][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.16-18.29.41:891][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.16-18.29.41:891][  0]LogMemory: Process Physical Memory: 106.16 MB used, 106.16 MB peak
+[2020.01.16-18.29.41:891][  0]LogMemory: Process Virtual Memory: 103.48 MB used, 103.48 MB peak
+[2020.01.16-18.29.41:891][  0]LogMemory: Physical Memory: 9736.32 MB used,  22963.32 MB free, 32699.65 MB total
+[2020.01.16-18.29.41:891][  0]LogMemory: Virtual Memory: 4708.38 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.01.16-18.29.41:894][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.16-18.29.41:914][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.16-18.29.41:914][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.01.16-18.29.41:914][  0]LogInit: Using OS detected locale (es-ES).
+[2020.01.16-18.29.42:028][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.16-18.29.42:058][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.16-18.29.42:058][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.16-18.29.42:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.16-18.29.42:178][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.16-18.29.42:232][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.01.16-18.29.42:232][  0]LogD3D11RHI:       5980/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.16-18.29.42:234][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.16-18.29.42:234][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.16-18.29.42:234][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.16-18.29.42:241][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.16-18.29.42:241][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.16-18.29.42:241][  0]LogWindows: EnumDisplayDevices:
+[2020.01.16-18.29.42:241][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.01.16-18.29.42:241][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.01.16-18.29.42:241][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.01.16-18.29.42:241][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.01.16-18.29.42:241][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.16-18.29.42:241][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.01.16-18.29.42:241][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2020.01.16-18.29.42:241][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2020.01.16-18.29.42:241][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.01.16-18.29.42:276][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.16-18.29.42:292][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.16-18.29.42:535][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.16-18.29.42:542][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.16-18.29.42:549][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.16-18.29.42:555][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.16-18.29.42:561][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.16-18.29.42:568][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.16-18.29.42:574][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.16-18.29.42:580][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.16-18.29.42:584][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.16-18.29.42:607][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.16-18.29.42:608][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.16-18.29.42:621][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.16-18.29.42:621][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.16-18.29.42:630][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.16-18.29.42:630][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.16-18.29.42:635][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.16-18.29.42:640][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.16-18.29.42:645][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.16-18.29.42:651][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.16-18.29.42:667][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.16-18.29.42:667][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.16-18.29.42:667][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.16-18.29.42:674][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.16-18.29.42:711][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (E:/Documentos/ProjectSangonaera/Sangonera/Intermediate/Shaders/WorkingDirectory/10904/).
+[2020.01.16-18.29.42:711][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/d.borrego/AppData/Local/Temp/UnrealShaderWorkingDir/B03304DC43D9502D344D1E9AE7B301E7/'.
+[2020.01.16-18.29.42:713][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.16-18.29.42:713][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.16-18.29.42:713][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.16-18.29.43:169][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.16-18.29.43:207][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/d.borrego/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.16-18.29.43:207][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/d.borrego/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.16-18.29.43:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Documentos/ProjectSangonaera/Sangonera/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.16-18.29.43:208][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.16-18.29.43:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Documentos/ProjectSangonaera/Sangonera/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.16-18.29.43:208][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.16-18.29.43:216][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.16-18.29.43:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.16-18.29.43:216][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.16-18.29.43:217][  0]LogDerivedDataCache: Using Local data cache path C:/Users/d.borrego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.16-18.29.43:217][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.16-18.29.43:217][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.16-18.29.43:233][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.16-18.29.43:235][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.16-18.29.43:236][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.16-18.29.43:245][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:245][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:245][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:248][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:249][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:250][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:276][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2020.01.16-18.29.43:461][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.16-18.29.43:569][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.16-18.29.43:569][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.16-18.29.43:569][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.16-18.29.43:569][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.16-18.29.43:569][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.16-18.29.43:575][  0]LogNetVersion: Sangonera 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2086811745)
+[2020.01.16-18.29.43:860][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.028456 seconds
+[2020.01.16-18.29.43:865][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.16-18.29.43:865][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.16-18.29.43:865][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.16-18.29.43:955][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.43:955][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:493][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.16-18.29.44:495][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.16-18.29.44:534][  0]SourceControl: Source control is disabled
+[2020.01.16-18.29.44:534][  0]SourceControl: Source control is disabled
+[2020.01.16-18.29.44:535][  0]SourceControl: Source control is disabled
+[2020.01.16-18.29.44:536][  0]SourceControl: Source control is disabled
+[2020.01.16-18.29.44:605][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.16-18.29.44:693][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2020.01.16-18.29.44:694][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 18.0.287/bin
+[2020.01.16-18.29.44:694][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.16-18.29.44:695][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.16-18.29.44:700][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.16-18.29.44:704][  0]LogOcInput: OculusInput pre-init called
+[2020.01.16-18.29.44:744][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:744][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:744][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:747][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:748][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:749][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:831][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.44:831][  0]LogSlate: Only pngs are supported in Slate
+[2020.01.16-18.29.45:165][  0]LogEngine: Initializing Engine...
+[2020.01.16-18.29.45:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.16-18.29.45:166][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.16-18.29.45:328][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.16-18.29.45:339][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.16-18.29.45:356][  0]LogInit: XAudio2 using 'Realtek Digital Output (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.16-18.29.45:382][  0]LogInit: FAudioDevice initialized.
+[2020.01.16-18.29.45:382][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.16-18.29.45:447][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/d.borrego/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.16-18.29.45:450][  0]LogInit: Texture streaming: Enabled
+[2020.01.16-18.29.45:464][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.16-18.29.45:464][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.16-18.29.45:465][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.16-18.29.45:501][  0]LogInit: Transaction tracking system initialized
+[2020.01.16-18.29.45:524][  0]BlueprintLog: New page: Editor Load
+[2020.01.16-18.29.45:584][  0]LocalizationService: Localization service is disabled
+[2020.01.16-18.29.45:759][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos/ProjectSangonaera/Sangonera/Content/' took 0.01s
+[2020.01.16-18.29.45:759][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.16-18.29.45:759][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.16-18.29.45:827][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2020.01.16-18.29.45:828][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2020.01.16-18.29.45:902][  0]SourceControl: Source control is disabled
+[2020.01.16-18.29.45:903][  0]Cmd: MAP LOAD FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.16-18.29.45:903][  0]LightingResults: New page: Lighting Build
+[2020.01.16-18.29.45:905][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-18.29.45:905][  0]MapCheck: New page: Map Check
+[2020.01.16-18.29.45:905][  0]LightingResults: New page: Lighting Build
+[2020.01.16-18.29.45:928][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.16-18.29.46:034][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.16-18.29.46:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.16-18.29.46:061][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.01.16-18.29.46:061][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.16-18.29.46:061][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,14ms to complete.
+[2020.01.16-18.29.46:061][  0]LogFileHelpers: Loading map 'MainMenu' took 0.158
+[2020.01.16-18.29.46:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-18.29.46:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-18.29.46:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-18.29.46:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.16-18.29.46:183][  0]LogCollectionManager: Loaded 0 collections in 0.001272 seconds
+[2020.01.16-18.29.46:187][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Collections/' took 0.00s
+[2020.01.16-18.29.46:187][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos/ProjectSangonaera/Sangonera/Content/Developers/dborrego/Collections/' took 0.00s
+[2020.01.16-18.29.46:187][  0]LogFileCache: Scanning file cache for directory 'E:/Documentos/ProjectSangonaera/Sangonera/Content/Collections/' took 0.00s
+[2020.01.16-18.29.46:187][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.01.16-18.29.46:194][  0]LogContentBrowser: Native class hierarchy populated in 0.0063 seconds. Added 2907 classes and 692 folders.
+[2020.01.16-18.29.46:198][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.16-18.29.46:224][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.16-18.29.46:228][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.16-18.29.46:266][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.16-18.29.46:268][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.16-18.29.46:270][  0]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.16-18.29.46:319][  0]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.16-18.29.46:414][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.16-18.29.46:414][  0]LogLoad: (Engine Initialization) Total time: 5.83 seconds
+[2020.01.16-18.29.46:414][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.16-18.29.46:429][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.16-18.29.46:460][  0]LogAssetRegistry: Asset discovery search completed in 3.1844 seconds
+[2020.01.16-18.29.46:463][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.01.16-18.29.46:463][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2020.01.16-18.29.46:464][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.01.16-18.29.46:488][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.16-18.29.48:899][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.29.48:997][294]LogSlate: Window 'Plugins' being destroyed
+[2020.01.16-18.29.49:004][294]LogSlate: Window 'Plugins' being destroyed
+[2020.01.16-18.29.49:004][294]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.01.16-18.29.50:179][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.29.55:901][647]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.16-18.29.55:955][647]LogFactory: FactoryCreateFile: AnimatedTexture2D with ReimportAnimatedTextureFactory (0 0 C:\Users\d.borrego\Downloads\Full Vida.gif)
+[2020.01.16-18.29.57:866][837]LogAssetEditorManager: Opening Asset editor for AnimatedTexture2D /Game/UI/UI_diseño/Full_Vida.Full_Vida
+[2020.01.16-18.29.57:871][837]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.16-18.30.01:434][256]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-18.30.01:440][256]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-18.30.09:141][171]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2020.01.16-18.30.09:329][171]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.01.16-18.30.10:189][171]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.16-18.30.44:150][921]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.30.44:197][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.01.16-18.30.45:073][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.30.45:090][ 17]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD9AB6C7174D5E31D889B5C190268BB8A2.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.32.11:239][294]LogAssetEditorManager: Opening Asset editor for AnimatedTexture2D /Game/UI/UI_diseño/Full_Vida.Full_Vida
+[2020.01.16-18.32.28:061][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.32.28:153][283]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.32.32:053][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.32.37:496][400]Cmd: TRANSACTION UNDO
+[2020.01.16-18.32.37:496][400]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.32.42:348][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.32.42:475][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.32.42:493][983]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida16630AD8423AFA950C0D55ABDA388D7D.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.32.45:479][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.32.45:494][329]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD72A40DEE46364CDE5B45E4A05B867A61.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.32.45:995][386]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.32.46:028][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.01.16-18.32.58:666][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.32.58:714][885]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaDB032A01460C8D7C78303E80BBCE335A.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.33.13:308][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.33.13:334][620]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida89BA22874776C14F4122B9920B07CE6B.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.33.15:592][887]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.33.15:622][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.16-18.33.16:305][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.33.16:317][962]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUDECF8015E4B1E2A1A065C8EBA6F178A50.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.33.20:027][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.33.20:053][400]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaC2655ED14D1F3E6168C4F6A187503306.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.33.25:564][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.33.25:656][ 47]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.33.35:357][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.33.49:952][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.33.49:977][952]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida6974E2F64C44E55651AA5E9686A1F774.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.34.02:617][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.34.02:645][459]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida23CCF4BD41D6976AEECF07A66D2FA21E.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.34.07:252][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.34.07:307][  4]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida2DFEE4754BBA75ECC5CDE9A8806BA7DE.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.35.15:558][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.35.15:582][ 23]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida78FEAAD04389FBD605BAF492735BB1CA.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.36.13:920][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.36.13:945][ 11]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida9E467E2B452837EA06135AA251D32925.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.36.22:997][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.36.23:021][ 90]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida17B0376C47F1CB7FBE32C3915407CA49.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.36.36:319][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.36.36:345][675]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida9B10FE5C4C5668C77D0E2BAA8A51AD20.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.36.41:384][272]Cmd: TRANSACTION UNDO
+[2020.01.16-18.36.41:384][272]LogEditorTransaction: Undo Edit B
+[2020.01.16-18.36.42:747][428]Cmd: TRANSACTION UNDO
+[2020.01.16-18.36.42:747][428]LogEditorTransaction: Undo Edit A
+[2020.01.16-18.36.50:545][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.36.50:572][357]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida8D5169F841D9F8810494C99EA8E22128.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.36.59:149][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.36.59:176][371]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaB1EB3F8B4FB2955A29B6BC8B69716167.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.37.01:349][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.37.17:952][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.37.17:977][606]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaDDC74C1547BE94776FFFA493354DFEE4.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.37.40:698][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.37.40:723][317]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_Vida2B3605C04D8678B58DCD5EA133AFB33A.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.37.46:538][  9]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={733B370A-49A9-0AA9-CE83-B0B80A053287}
+[2020.01.16-18.37.59:149][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.37.59:190][518]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaF88E185845003815437523B3650C3A0F.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.38.06:495][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.38.06:519][387]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaD265C980412FF53B4956DD8D6FB3873A.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.38.12:411][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.38.12:434][ 81]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaAB78208049DD245D68F21CBBF7545C85.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.38.14:549][328]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.16-18.38.22:435][267]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.16-18.38.27:406][801]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.38.32:257][378]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.16-18.38.32:263][378]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.16-18.38.46:535][ 76]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4962D5CA-43DD-3870-C1D8-14AEBFEA50AA}
+[2020.01.16-18.38.58:313][486]Cmd: TRANSACTION UNDO
+[2020.01.16-18.38.58:313][486]LogEditorTransaction: Undo Edit Background Color
+[2020.01.16-18.38.58:664][525]Cmd: TRANSACTION UNDO
+[2020.01.16-18.38.58:664][525]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.38.59:127][578]Cmd: TRANSACTION UNDO
+[2020.01.16-18.38.59:127][578]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.38.59:427][614]Cmd: TRANSACTION UNDO
+[2020.01.16-18.38.59:427][614]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.38.59:696][646]Cmd: TRANSACTION UNDO
+[2020.01.16-18.38.59:696][646]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.00:004][683]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.00:004][683]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.00:280][716]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.00:280][716]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.00:531][746]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.00:531][746]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.00:789][777]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.00:789][777]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:031][806]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:031][806]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:223][829]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:223][829]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:406][851]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:406][851]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:623][877]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:623][877]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:806][899]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:806][899]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.01:973][919]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.01:973][919]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.02:156][941]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.02:156][941]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.02:315][960]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.02:315][960]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.02:473][979]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.02:473][979]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.02:699][  6]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.02:699][  6]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.02:874][ 27]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.02:874][ 27]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:041][ 47]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:041][ 47]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:258][ 73]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:258][ 73]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:433][ 94]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:433][ 94]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:608][115]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:608][115]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:791][137]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:791][137]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.03:925][153]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.03:925][153]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:075][171]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:075][171]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:225][189]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:225][189]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:358][205]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:358][205]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:600][234]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:600][234]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:775][255]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:775][255]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.04:959][277]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.04:959][277]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.05:152][300]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.05:153][300]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.05:369][326]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.05:369][326]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.05:869][386]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.05:869][386]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.06:328][441]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.06:328][441]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.06:678][483]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.06:678][483]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.07:053][528]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.07:053][528]LogEditorTransaction: Undo Edit A
+[2020.01.16-18.39.07:411][571]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.07:411][571]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.07:805][618]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.07:805][618]LogEditorTransaction: Undo Edit Looping
+[2020.01.16-18.39.08:122][656]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.08:123][656]LogEditorTransaction: Undo Edit Looping
+[2020.01.16-18.39.08:723][728]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.08:723][728]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.09:058][768]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.09:058][768]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.09:358][804]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.09:358][804]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.09:658][840]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.09:658][840]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.09:976][878]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.09:976][878]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.10:300][917]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.10:301][917]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.10:984][999]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.10:984][999]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.11:301][ 37]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.11:301][ 37]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.11:467][ 57]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.11:467][ 57]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.11:651][ 79]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.11:651][ 79]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.11:842][102]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.11:842][102]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.12:042][126]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.12:042][126]LogEditorTransaction: Undo Edit Play Rate
+[2020.01.16-18.39.12:226][148]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.12:226][148]LogEditorTransaction: Undo Edit Default Frame Delay
+[2020.01.16-18.39.12:409][170]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.12:409][170]LogEditorTransaction: Undo Edit Default Frame Delay
+[2020.01.16-18.39.12:593][192]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.12:593][192]LogEditorTransaction: Undo Edit Default Frame Delay
+[2020.01.16-18.39.12:910][230]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.12:910][230]LogEditorTransaction: Undo Edit Texture Group
+[2020.01.16-18.39.13:103][253]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.13:103][253]LogEditorTransaction: Undo Edit sRGB
+[2020.01.16-18.39.13:388][287]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.13:388][287]LogEditorTransaction: Undo Edit sRGB
+[2020.01.16-18.39.13:688][323]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.13:688][323]LogEditorTransaction: Undo Edit Compress Without Alpha
+[2020.01.16-18.39.13:983][358]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.13:983][358]LogEditorTransaction: Undo Edit Compress Without Alpha
+[2020.01.16-18.39.14:433][412]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.14:433][412]LogEditorTransaction: Undo Reset to Default
+[2020.01.16-18.39.14:733][448]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.14:733][448]LogEditorTransaction: Undo Edit Brightness
+[2020.01.16-18.39.15:100][492]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.15:100][492]LogEditorTransaction: Undo Edit Brightness
+[2020.01.16-18.39.15:592][551]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.15:592][551]LogEditorTransaction: Undo Edit Brightness
+[2020.01.16-18.39.16:092][611]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.16:092][611]LogEditorTransaction: Undo Edit Hue
+[2020.01.16-18.39.16:526][663]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.16:526][663]LogEditorTransaction: Undo Edit Hue
+[2020.01.16-18.39.16:851][702]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.16:851][702]LogEditorTransaction: Undo Edit Chroma Key Color
+[2020.01.16-18.39.17:319][758]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.17:319][758]LogEditorTransaction: Undo Edit Chroma Key Color
+[2020.01.16-18.39.17:695][803]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.17:695][803]LogEditorTransaction: Undo Edit A
+[2020.01.16-18.39.18:130][855]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.18:130][855]LogEditorTransaction: Undo Edit A
+[2020.01.16-18.39.18:531][903]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.18:531][903]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.19:016][961]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.19:016][961]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.19:374][  4]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.19:375][  4]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.19:683][ 41]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.19:683][ 41]LogEditorTransaction: Undo Edit Chroma Key Texture
+[2020.01.16-18.39.19:983][ 77]Cmd: TRANSACTION UNDO
+[2020.01.16-18.39.19:983][ 77]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.39.46:532][261]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D94F9118-43EC-7314-F043-0E80A147B311}
+[2020.01.16-18.40.11:454][245]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.16-18.40.11:504][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.01.16-18.40.11:504][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainMenu' took 0.030
+[2020.01.16-18.43.59:300][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.44.00:973][641]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.44.03:484][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.44.09:157][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.44.09:200][614]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaEA6B0E424D5A36B2FDCF56820095711A.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.44.40:701][364]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.40:701][364]LogEditorTransaction: Undo Edit Texture Group
+[2020.01.16-18.44.41:181][417]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.41:181][417]LogEditorTransaction: Undo Edit Texture Group
+[2020.01.16-18.44.41:817][493]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.41:817][493]LogEditorTransaction: Undo Edit LOD Bias
+[2020.01.16-18.44.42:210][540]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.42:210][540]LogEditorTransaction: Undo Edit LOD Bias
+[2020.01.16-18.44.42:544][580]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.42:544][580]LogEditorTransaction: Undo Edit LOD Bias
+[2020.01.16-18.44.43:035][639]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.43:035][639]LogEditorTransaction: Undo Edit Mip Gen Settings
+[2020.01.16-18.44.43:457][689]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.43:457][689]LogEditorTransaction: Undo Edit Mip Gen Settings
+[2020.01.16-18.44.44:015][756]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.44:015][756]LogEditorTransaction: Undo Edit Mip Gen Settings
+[2020.01.16-18.44.44:440][807]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.44:440][807]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.44.45:177][895]Cmd: TRANSACTION UNDO
+[2020.01.16-18.44.45:177][895]LogEditorTransaction: Undo Edit Chroma Key Threshold
+[2020.01.16-18.45.13:946][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-18.45.14:021][324]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.45.18:873][901]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.45.50:471][683]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.50:471][683]LogEditorTransaction: Undo Edit RGBCurve
+[2020.01.16-18.45.50:782][717]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.50:782][717]LogEditorTransaction: Undo Edit Saturation
+[2020.01.16-18.45.51:429][790]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.51:429][790]LogEditorTransaction: Undo Edit Saturation
+[2020.01.16-18.45.51:755][829]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.51:755][829]LogEditorTransaction: Undo Edit Saturation
+[2020.01.16-18.45.53:101][989]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.53:101][989]LogEditorTransaction: Undo Edit Chroma Key Color
+[2020.01.16-18.45.57:098][467]Cmd: TRANSACTION UNDO
+[2020.01.16-18.45.57:098][467]LogEditorTransaction: Undo Edit Brightness Curve
+[2020.01.16-18.46.00:300][841]Cmd: TRANSACTION UNDO
+[2020.01.16-18.46.00:300][841]LogEditorTransaction: Undo Edit Brightness
+[2020.01.16-18.46.01:774][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-18.46.01:800][  9]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaF3B4AACF495FF53526A8E99A99479A88.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-18.47.41:381][617]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.47.45:218][ 69]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.47.45:252][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.01.16-18.47.46:101][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.47.46:113][159]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD6B0E10544AB6FF2C8C67928B56FBCDB2.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.49.51:476][913]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.49.51:511][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.16-18.49.53:127][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.49.53:140][100]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUDF92838944DFCF8D34A30B88FCED685DE.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB62E1DCE-409E-88CC-576A-AD8BC4B4C900%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=00f57c2b488aac9422d3f59307a111e8%7Cf0ab9611dc96463cb2d1d04728419348%7Cc7601eb2-7dee-4caf-a4d8-a8c0b67d1c60&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: request failed, libcurl error: 0 (No error)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2226958bf70 [can pipeline])
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.188.211) port 443 (#3))
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 7 (Closing connection 3)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: 000002225A457D80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.16-18.50.51:584][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB62E1DCE-409E-88CC-576A-AD8BC4B4C900%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=00f57c2b488aac9422d3f59307a111e8%7Cf0ab9611dc96463cb2d1d04728419348%7Cc7601eb2-7dee-4caf-a4d8-a8c0b67d1c60&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.16-18.51.18:193][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.51.18:207][865]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD7A27CCD74FFF0EB7A6BD60A6C3EB463B.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.51.55:295][137]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:298][137]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:303][138]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:305][138]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:313][139]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:314][139]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:320][140]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:321][140]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:329][141]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:337][142]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:338][142]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:345][143]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:346][143]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:354][144]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:362][145]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:370][146]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:378][147]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:380][147]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:387][148]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:395][149]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:397][149]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:404][150]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:412][151]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:413][151]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:414][151]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:421][152]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:428][153]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:430][153]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:437][154]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:445][155]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:446][155]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:455][156]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:457][156]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:462][157]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:471][158]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:479][159]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:487][160]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:488][160]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:495][161]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:504][162]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:512][163]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:520][164]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:521][164]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:529][165]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:537][166]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:545][167]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:554][168]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:562][169]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:570][170]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:579][171]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:587][172]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:596][173]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:604][174]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:612][175]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:620][176]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:628][177]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:630][177]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:637][178]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:638][178]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:645][179]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:646][179]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:654][180]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:662][181]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:663][181]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:671][182]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:678][183]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:680][183]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:687][184]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:696][185]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:703][186]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:706][186]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:712][187]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:722][188]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:729][189]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:737][190]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:746][191]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:754][192]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:762][193]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:771][194]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:779][195]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:787][196]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:796][197]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:804][198]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:812][199]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:821][200]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:830][201]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:837][202]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:845][203]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:854][204]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:862][205]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:871][206]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:879][207]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:887][208]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:895][209]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:903][210]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite7.Texture_Atlas_Sprite7 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite7
+[2020.01.16-18.51.55:928][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-18.52.21:421][779]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.52.21:455][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.01.16-18.52.21:951][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.52.21:966][828]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD111E6A0B4A2F41C647E7C7BE20D2B780.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.52.48:968][ 43]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.52.49:004][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.16-18.53.35:508][804]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.53.35:543][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.01.16-18.53.35:991][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.53.36:006][847]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD6A303AC9407B03CCED3021A09444C07B.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.54.49:626][667]BlueprintLog: New page: Compile HUD
+[2020.01.16-18.54.49:661][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.01.16-18.54.50:130][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.16-18.54.50:143][712]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/HUD0DD9AF0B49EC7F8C53F27B888EB6998B.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.16-18.54.53:467][105]LogSlate: Window 'HUD' being destroyed
+[2020.01.16-18.54.53:476][105]LogSlate: Window 'HUD' being destroyed
+[2020.01.16-18.54.53:479][105]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-18.54.53:494][105]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-18.55.01:268][ 17]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.01.16-18.55.01:621][ 17]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/CheatMenu.CheatMenu
+[2020.01.16-18.55.20:291][839]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:294][839]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:301][840]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:302][840]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:314][841]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:320][842]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:322][842]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:329][843]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:332][843]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:337][844]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:339][844]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:346][845]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:347][845]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:354][846]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:355][846]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:363][847]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:365][847]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:371][848]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:372][848]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:379][849]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:388][850]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:396][851]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:404][852]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:405][852]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:413][853]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:420][854]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:424][854]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:430][855]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:437][856]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:439][856]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:446][857]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:447][857]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:454][858]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:463][859]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:471][860]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:479][861]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:488][862]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:496][863]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:504][864]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:513][865]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:521][866]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:529][867]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:538][868]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:546][869]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:554][870]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:563][871]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:571][872]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:580][873]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-18.55.20:607][873]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-18.55.55:990][990]BlueprintLog: New page: Compile CheatMenu
+[2020.01.16-18.55.56:053][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.01.16-18.55.57:133][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CheatMenu" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/CheatMenu.uasset" SILENT=true
+[2020.01.16-18.55.57:172][102]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/CheatMenu7DE2D4F04C91D870C3C27786E6A1D6DB.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/CheatMenu.uasset'
+[2020.01.16-18.57.50:988][151]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.57.56:448][749]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.58.00:035][137]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.58.05:134][698]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.58.09:103][138]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.58.15:506][861]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-18.59.35:769][891]BlueprintLog: New page: Compile CheatMenu
+[2020.01.16-18.59.35:823][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.01.16-18.59.36:527][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CheatMenu" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/CheatMenu.uasset" SILENT=true
+[2020.01.16-18.59.36:564][957]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/CheatMenu03AFEDC84B87B38278CD99A294E55A25.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/CheatMenu.uasset'
+[2020.01.16-18.59.40:795][434]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.16-18.59.43:988][795]LogSlate: Window 'CheatMenu' being destroyed
+[2020.01.16-18.59.43:995][795]LogSlate: Window 'CheatMenu' being destroyed
+[2020.01.16-18.59.43:999][795]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-18.59.44:014][795]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-18.59.52:013][745]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.01.16-19.00.08:407][ 73]LogSlate: Took 0.001630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.16-19.01.05:283][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainMenu" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/Scenes/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.16-19.01.05:315][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.01.16-19.01.05:477][887]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/MainMenu7B2E016D451CC87A60A985BF0E12633A.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/Scenes/MainMenu.umap'
+[2020.01.16-19.01.15:295][ 57]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/UI/Sin_título-1.Sin_título-1
+[2020.01.16-19.01.17:226][280]LogSlate: Window 'Sin_título-1' being destroyed
+[2020.01.16-19.01.17:232][280]LogSlate: Window 'Sin_título-1' being destroyed
+[2020.01.16-19.01.17:235][280]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.01.17:247][280]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.03.09:109][694]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.01.16-19.03.33:114][372]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:117][372]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:122][373]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:129][373]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:135][374]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:143][375]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:145][375]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:147][375]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:153][376]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:161][377]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:162][377]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:169][378]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:178][379]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:186][380]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:194][381]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:195][381]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:202][382]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:204][382]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:211][383]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:219][384]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:220][384]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:227][385]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:236][386]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:244][387]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:252][388]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:254][388]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:261][389]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:269][390]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:277][391]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:286][392]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:294][393]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:303][394]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:311][395]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:319][396]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:327][397]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:336][398]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:344][399]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:352][400]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:361][401]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:369][402]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:377][403]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:386][404]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:395][405]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:402][406]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:412][407]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:419][408]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:428][409]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:436][410]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:444][411]LogUObjectHash: Warning: Ambiguous search, could be PaperSprite /Game/UI/UI_diseño/Texture_Atlas_Sprite5.Texture_Atlas_Sprite5 or PaperSpriteActor /Game/Scenes/MainMenu.MainMenu:PersistentLevel.Texture_Atlas_Sprite5
+[2020.01.16-19.03.33:461][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-19.04.03:512][822]LogEditorTransaction: Undo Remove Widget
+[2020.01.16-19.04.35:283][270]LogEditorTransaction: Undo Resize Widget
+[2020.01.16-19.04.35:560][293]LogEditorTransaction: Undo Resize Widget
+[2020.01.16-19.04.35:877][320]LogEditorTransaction: Undo Move Widget
+[2020.01.16-19.04.36:245][360]LogEditorTransaction: Undo Move Widget
+[2020.01.16-19.06.17:294][312]BlueprintLog: New page: Compile Options
+[2020.01.16-19.06.17:487][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.16-19.06.17:995][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.06.18:044][357]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Options723C2EA04CE7181383B8C9B463091142.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.06.49:871][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.06.49:900][ 97]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/OptionsC928D7344FC05082F456EF92DA662925.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.06.57:428][973]BlueprintLog: New page: Compile Options
+[2020.01.16-19.06.57:469][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.16-19.06.58:160][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.06.58:189][ 40]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Options77987B3343B70786708ABDB935DF450B.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.07.07:172][ 97]BlueprintLog: New page: Compile Options
+[2020.01.16-19.07.07:213][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.16-19.07.07:659][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.07.07:689][138]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Options10B137514F1F66D02A3F1A9BE5FFAB4C.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.08.09:291][313]BlueprintLog: New page: Compile Options
+[2020.01.16-19.08.09:333][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.01.16-19.08.09:779][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.08.09:810][361]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/OptionsC5ED8DAA4B037AAC63DA60A78B93569D.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.08.19:898][560]LogSlate: Window 'Options' being destroyed
+[2020.01.16-19.08.19:905][560]LogSlate: Window 'Options' being destroyed
+[2020.01.16-19.08.19:909][560]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.08.19:920][560]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.08.22:653][881]LogAssetEditorManager: Opening Asset editor for AnimatedTexture2D /Game/UI/UI_diseño/Full_Vida.Full_Vida
+[2020.01.16-19.08.56:463][894]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-19.08.56:471][894]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-19.08.58:862][177]LogAssetEditorManager: Opening Asset editor for AnimatedTexture2D /Game/UI/UI_diseño/Full_Vida.Full_Vida
+[2020.01.16-19.08.59:795][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_diseño/Full_Vida" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset" SILENT=true
+[2020.01.16-19.08.59:847][277]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/Full_VidaE78FA9D446DA47EB9CF8B6A6D2A9C236.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/UI_diseño/Full_Vida.uasset'
+[2020.01.16-19.09.11:809][707]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-19.09.11:819][707]LogSlate: Window 'Full_Vida' being destroyed
+[2020.01.16-19.10.39:140][172]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.01.16-19.10.49:355][315]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-19.11.00:705][614]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.16-19.11.03:087][894]BlueprintLog: New page: Compile Options
+[2020.01.16-19.11.03:274][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.16-19.11.04:131][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset" SILENT=true
+[2020.01.16-19.11.04:160][983]LogSavePackage: Moving 'E:/Documentos/ProjectSangonaera/Sangonera/Saved/OptionsA21E158A42A330D0D3AA0A96EC73D22F.tmp' to 'E:/Documentos/ProjectSangonaera/Sangonera/Content/UI/Options.uasset'
+[2020.01.16-19.11.04:743][ 47]LogSlate: Window 'Options' being destroyed
+[2020.01.16-19.11.04:751][ 47]LogSlate: Window 'Options' being destroyed
+[2020.01.16-19.11.04:754][ 47]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.11.04:766][ 47]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.11.07:888][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.16-19.11.07:938][414]LogSlate: Window 'Sangonera - Unreal Editor' being destroyed
+[2020.01.16-19.11.07:938][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.16-19.11.08:022][415]Cmd: QUIT_EDITOR
+[2020.01.16-19.11.08:047][415]LogExit: Preparing to exit.
+[2020.01.16-19.11.08:809][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.01.16-19.11.08:810][415]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.11.08:811][415]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.16-19.11.08:811][415]LogExit: Editor shut down
+[2020.01.16-19.11.08:812][415]LogExit: Transaction tracking system shut down
+[2020.01.16-19.11.08:816][415]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.16-19.11.09:051][415]LogExit: Object subsystem successfully closed.
+[2020.01.16-19.11.09:075][415]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module SequencerWidgets (682)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module BlueprintGraph (680)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module TextureEditor (678)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (676)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module SceneOutliner (674)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module AddContentDialog (672)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module WidgetCarousel (671)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module EditorWidgets (668)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module CollectionManager (666)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module StatsViewer (664)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (662)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module FoliageEdit (660)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module LandscapeEditor (658)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module MeshPaintMode (656)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (654)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module ActorPickerMode (652)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module GeometryMode (650)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module TextureAlignMode (648)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module BspMode (646)
+[2020.01.16-19.11.09:094][415]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (644)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (642)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AutomationWorker (640)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module OculusMR (638)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (636)
+[2020.01.16-19.11.09:095][415]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2020.01.16-19.11.09:095][415]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (634)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (632)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (630)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module PlacementMode (629)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MaterialEditor (628)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (624)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (622)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (620)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (618)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (616)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module WebMMedia (614)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (612)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (610)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module SequenceRecorder (609)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (606)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (604)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (602)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (600)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (598)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (596)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (594)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (592)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (590)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (588)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (586)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module CharacterAI (584)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module SmartSnapping (582)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module SessionServices (580)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module MeshPaint (578)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ViewportSnapping (576)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ViewportInteraction (574)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module ClothPainter (572)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (571)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module LogVisualizer (568)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module IntroTutorials (566)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (565)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (562)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (560)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (558)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (556)
+[2020.01.16-19.11.09:095][415]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (555)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (552)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (550)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (548)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (546)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (544)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module InputBindingEditor (542)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module MergeActors (540)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (538)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module LocalizationService (537)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module HardwareTargeting (534)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (532)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module UndoHistory (530)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module XmlParser (528)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module Blutility (526)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (524)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (523)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (520)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module SettingsEditor (518)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module ProjectLauncher (516)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module SessionFrontend (514)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module ProfilerClient (512)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module DeviceManager (510)
+[2020.01.16-19.11.09:977][415]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (509)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module AutomationController (506)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module AutomationWindow (504)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module Layers (502)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (500)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module DetailCustomizations (498)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module PackagesDialog (496)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (494)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module Persona (492)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (491)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module AnimGraph (489)
+[2020.01.16-19.11.10:033][415]LogModuleManager: Shutting down and abandoning module Kismet (486)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module KismetWidgets (485)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module GraphEditor (482)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module StructViewer (480)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module ClassViewer (478)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module Toolbox (476)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module ModuleUI (474)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module MovieSceneTools (472)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module OutputLog (470)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module GammaUI (468)
+[2020.01.16-19.11.10:037][415]LogModuleManager: Shutting down and abandoning module Documentation (466)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module LiveCoding (464)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module LevelSequence (462)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (460)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module MovieScene (458)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (456)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module LauncherPlatform (454)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module AnalyticsET (452)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module PortalServices (450)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module PortalRpc (448)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module MessagingRpc (446)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module AIModule (444)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module GameplayDebugger (443)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module AITestSuite (441)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module NavigationSystem (439)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module DesktopPlatform (436)
+[2020.01.16-19.11.10:038][415]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (434)
+[2020.01.16-19.11.10:041][415]LogModuleManager: Shutting down and abandoning module ProfilerService (432)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module TaskGraph (430)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module ScreenshotTools (428)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module SteamVRController (426)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (424)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (422)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module OculusEditor (420)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module OculusInput (418)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (416)
+[2020.01.16-19.11.10:135][415]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (414)
+[2020.01.16-19.11.10:135][415]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (396)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (394)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AnimatedTextureEditor (388)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AnimatedTexture (386)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.01.16-19.11.10:136][415]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.16-19.11.10:137][415]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.16-19.11.10:238][415]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.16-19.11.10:339][415]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.16-19.11.10:339][415]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.16-19.11.10:340][415]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.16-19.11.10:340][415]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.16-19.11.10:340][415]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.16-19.11.10:341][415]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.16-19.11.10:342][415]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.16-19.11.10:350][415]LogDerivedDataCache: Shutdown
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.16-19.11.10:350][415]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.16-19.11.10:351][415]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.16-19.11.10:351][415]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.16-19.11.10:351][415]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.16-19.11.10:351][415]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.16-19.11.10:351][415]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.16-19.11.10:352][415]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.16-19.11.10:352][415]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.16-19.11.10:352][415]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.16-19.11.10:352][415]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.16-19.11.10:356][415]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.16-19.11.10:356][415]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.16-19.11.10:357][415]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.16-19.11.10:357][415]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.16-19.11.10:357][415]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.16-19.11.10:386][415]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.16-19.11.10:386][415]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.16-19.11.10:386][415]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB62E1DCE-409E-88CC-576A-AD8BC4B4C900%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=00f57c2b488aac9422d3f59307a111e8%7Cf0ab9611dc96463cb2d1d04728419348%7Cc7601eb2-7dee-4caf-a4d8-a8c0b67d1c60&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.16-19.11.10:393][415]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.16-19.11.10:394][415]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.16-19.11.10:396][415]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.16-19.11.10:397][415]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.16-19.11.10:398][415]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.16-19.11.10:398][415]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.16-19.11.10:398][415]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.16-19.11.10:398][415]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.16-19.11.10:398][415]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.16-19.11.10:399][415]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.16-19.11.10:399][415]LogD3D11RHI: Shutdown
+[2020.01.16-19.11.10:399][415]LogD3D11RHI: CleanupD3DDevice
+[2020.01.16-19.11.10:400][415]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.16-19.11.10:400][415]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.16-19.11.10:400][415]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.16-19.11.10:496][415]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.16-19.11.10:506][415]LogExit: Exiting.
+[2020.01.16-19.11.10:524][415]Log file closed, 01/16/20 20:11:10
