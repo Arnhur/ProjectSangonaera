@@ -1,0 +1,1382 @@
+﻿Log file open, 01/19/20 10:53:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sangonera
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.076488
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AnimatedTexture
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=LordFalconYT -epicuserid=f0ab9611dc96463cb2d1d04728419348 -epiclocale=es-MX
+LogInit: Base Directory: E:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:754][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:756][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.19-09.53.39:756][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.19-09.53.39:757][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.19-09.53.39:757][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.19-09.53.39:757][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.19-09.53.39:759][  0]LogHAL: Display: Platform has ~ 32 GB [34317578240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.19-09.53.39:759][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.19-09.53.39:759][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.19-09.53.39:759][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:759][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Scalability.ini]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.19-09.53.39:760][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Config/Windows/Engine.ini]
+[2020.01.19-09.53.39:760][  0]LogInit: Computer: DESKTOP-4A9CMIK
+[2020.01.19-09.53.39:760][  0]LogInit: User: David
+[2020.01.19-09.53.39:760][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.19-09.53.39:760][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.19-09.53.39:761][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.01.19-09.53.39:761][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.19-09.53.39:761][  0]LogMemory: Process Physical Memory: 106.77 MB used, 106.77 MB peak
+[2020.01.19-09.53.39:761][  0]LogMemory: Process Virtual Memory: 103.38 MB used, 103.38 MB peak
+[2020.01.19-09.53.39:761][  0]LogMemory: Physical Memory: 5793.42 MB used,  26934.37 MB free, 32727.79 MB total
+[2020.01.19-09.53.39:761][  0]LogMemory: Virtual Memory: 4706.17 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.01.19-09.53.39:763][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.19-09.53.39:781][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.19-09.53.39:781][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.19-09.53.39:918][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.19-09.53.39:955][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.19-09.53.39:955][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.19-09.53.40:109][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.19-09.53.40:109][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.19-09.53.40:171][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.01.19-09.53.40:171][  0]LogD3D11RHI:       8079/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.19-09.53.40:173][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.19-09.53.40:173][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.19-09.53.40:173][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.19-09.53.40:179][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.19-09.53.40:179][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.19-09.53.40:179][  0]LogWindows: EnumDisplayDevices:
+[2020.01.19-09.53.40:179][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.01.19-09.53.40:179][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.19-09.53.40:179][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.19-09.53.40:180][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.01.19-09.53.40:180][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.19-09.53.40:180][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.01.19-09.53.40:180][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.01.19-09.53.40:180][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.01.19-09.53.40:180][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.01.19-09.53.40:218][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.19-09.53.40:245][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.19-09.53.40:510][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.19-09.53.40:517][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.19-09.53.40:524][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.19-09.53.40:531][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.19-09.53.40:537][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.19-09.53.40:544][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.19-09.53.40:551][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.19-09.53.40:558][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.19-09.53.40:561][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.19-09.53.40:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.19-09.53.40:591][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.19-09.53.40:604][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.19-09.53.40:604][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.19-09.53.40:615][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.19-09.53.40:615][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.19-09.53.40:620][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.19-09.53.40:626][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.19-09.53.40:634][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.19-09.53.40:644][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.19-09.53.40:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.19-09.53.40:668][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.19-09.53.40:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.19-09.53.40:675][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.19-09.53.40:718][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Intermediate/Shaders/WorkingDirectory/1760/).
+[2020.01.19-09.53.40:718][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/David/AppData/Local/Temp/UnrealShaderWorkingDir/0E0915A14BCAC5A709D2439CC2F1CC81/'.
+[2020.01.19-09.53.40:720][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.19-09.53.40:720][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.19-09.53.40:720][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.19-09.53.41:360][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.19-09.53.41:408][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/David/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.19-09.53.41:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/David/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.19-09.53.41:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documentos/GitHub/ProjectSangonaera/Sangonera/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.19-09.53.41:409][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.19-09.53.41:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documentos/GitHub/ProjectSangonaera/Sangonera/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.19-09.53.41:409][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.19-09.53.41:420][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.19-09.53.41:420][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.19-09.53.41:420][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.19-09.53.41:421][  0]LogDerivedDataCache: Using Local data cache path C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.19-09.53.41:421][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.19-09.53.41:421][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.19-09.53.41:439][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.19-09.53.41:440][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.19-09.53.41:441][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.19-09.53.41:490][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2020.01.19-09.53.41:728][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.19-09.53.41:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.19-09.53.41:847][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.19-09.53.41:847][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.19-09.53.41:847][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.19-09.53.41:847][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.19-09.53.41:855][  0]LogNetVersion: Sangonera 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2086811745)
+[2020.01.19-09.53.42:191][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.045605 seconds
+[2020.01.19-09.53.42:198][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.19-09.53.42:198][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.19-09.53.42:198][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.19-09.53.42:852][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.19-09.53.42:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.19-09.53.42:916][  0]SourceControl: Source control is disabled
+[2020.01.19-09.53.42:916][  0]SourceControl: Source control is disabled
+[2020.01.19-09.53.42:916][  0]SourceControl: Source control is disabled
+[2020.01.19-09.53.42:917][  0]SourceControl: Source control is disabled
+[2020.01.19-09.53.42:999][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.19-09.53.43:140][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2020.01.19-09.53.43:141][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Side Effects Software/Houdini 18.0.287/bin
+[2020.01.19-09.53.43:141][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.19-09.53.43:142][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.19-09.53.43:149][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.01.19-09.53.43:153][  0]LogOcInput: OculusInput pre-init called
+[2020.01.19-09.53.43:685][  0]LogEngine: Initializing Engine...
+[2020.01.19-09.53.43:752][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.19-09.53.43:752][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.19-09.53.43:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.19-09.53.43:957][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.19-09.53.43:980][  0]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-09.53.43:997][  0]LogInit: FAudioDevice initialized.
+[2020.01.19-09.53.43:997][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.19-09.53.44:099][  0]LogDerivedDataCache: Saved boot cache 0.10s 76MB C:/Users/David/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.19-09.53.44:113][  0]LogInit: Texture streaming: Enabled
+[2020.01.19-09.53.44:128][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.19-09.53.44:128][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.19-09.53.44:129][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.19-09.53.44:186][  0]LogInit: Transaction tracking system initialized
+[2020.01.19-09.53.44:223][  0]BlueprintLog: New page: Editor Load
+[2020.01.19-09.53.44:286][  0]LocalizationService: Localization service is disabled
+[2020.01.19-09.53.44:487][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/' took 0.01s
+[2020.01.19-09.53.44:487][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.19-09.53.44:487][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.19-09.53.44:561][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2020.01.19-09.53.44:562][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2020.01.19-09.53.44:647][  0]SourceControl: Source control is disabled
+[2020.01.19-09.53.44:647][  0]Cmd: MAP LOAD FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.19-09.53.44:652][  0]LightingResults: New page: Lighting Build
+[2020.01.19-09.53.44:655][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-09.53.44:655][  0]MapCheck: New page: Map Check
+[2020.01.19-09.53.44:655][  0]LightingResults: New page: Lighting Build
+[2020.01.19-09.53.44:680][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.19-09.53.44:878][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.19-09.53.44:878][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.19-09.53.44:904][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.01.19-09.53.44:904][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.19-09.53.44:904][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2020.01.19-09.53.44:904][  0]LogFileHelpers: Loading map 'MainMenu' took 0.257
+[2020.01.19-09.53.45:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-09.53.45:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-09.53.45:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-09.53.45:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-09.53.45:050][  0]LogCollectionManager: Loaded 0 collections in 0.001540 seconds
+[2020.01.19-09.53.45:055][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Collections/' took 0.00s
+[2020.01.19-09.53.45:055][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Developers/David/Collections/' took 0.00s
+[2020.01.19-09.53.45:055][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Collections/' took 0.00s
+[2020.01.19-09.53.45:056][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.19-09.53.45:063][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2907 classes and 692 folders.
+[2020.01.19-09.53.45:068][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.19-09.53.45:287][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.19-09.53.45:305][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.19-09.53.45:364][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.19-09.53.45:366][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.19-09.53.45:378][  0]LogSlate: Took 0.007378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.19-09.53.45:496][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.19-09.53.45:572][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.19-09.53.45:572][  0]LogLoad: (Engine Initialization) Total time: 7.26 seconds
+[2020.01.19-09.53.45:572][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.19-09.53.45:631][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.19-09.53.45:667][  0]LogSlate: Took 0.003850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.19-09.53.45:816][  3]LogAssetRegistry: Asset discovery search completed in 4.3270 seconds
+[2020.01.19-09.53.45:819][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.01.19-09.53.45:819][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.01.19-09.53.55:580][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-09.54.06:959][519]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.19-09.54.07:504][519]LogBlueprint: Warning: [Compiler Enemy_Character] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.01.19-09.54.07:512][519]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.01.19-09.54.07:659][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:659][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:659][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:659][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:664][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.07:665][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.07:665][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.07:665][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.07:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.07:679][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.07:679][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.07:680][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.07:761][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.07:762][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.07:791][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:792][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:792][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:792][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:802][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:802][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.07:803][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.07:804][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.07:804][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.07:804][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.07:822][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.07:822][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.07:822][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.07:823][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.07:829][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.07:829][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.07:829][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.07:829][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:240][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.08:240][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01.M_Fern_01 Referenced by SM_Fern_01
+[2020.01.19-09.54.08:240][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.08:669][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:669][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst.M_Yarrow_PP_Wind_Inst Referenced by SM_Yarrow3
+[2020.01.19-09.54.08:669][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:669][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:669][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_PP_Wind_Inst': Can't find file.
+[2020.01.19-09.54.08:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.08:670][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst.M_Yarrow_Inst Referenced by SM_Yarrow
+[2020.01.19-09.54.08:670][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.08:671][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.08:671][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/M_Yarrow_Inst': Can't find file.
+[2020.01.19-09.54.08:671][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:671][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience.M_HeatherPatches_Inst2_BrownPinkVairience Referenced by SM_Heather_Mesh_Clumps2_WorldPopulate
+[2020.01.19-09.54.08:671][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:671][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:671][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2.M_HeatherPatches_Inst2 Referenced by SM_Heather_Mesh_Clumps2_WorldPopulate
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.08:672][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind.M_HeatherPatches_Inst2_BrownPinkVairience_NoWind Referenced by SM_Heather_Mesh_Clumps2_WorldPopulate
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience_NoWind': Can't find file.
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:672][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2_WorldPopulate.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2_BrownPinkVairience': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2.M_HeatherPatches_Inst2 Referenced by SM_Heather_Mesh_Clumps2
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Heather/M_HeatherPatches_Inst2': Can't find file.
+[2020.01.19-09.54.08:673][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.08:673][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01.M_FieldScabious_01_Inst01 Referenced by SM_FieldScabious_01
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst01': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.08:674][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02.M_FieldScabious_01_Inst02 Referenced by SM_FieldScabious_01
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01_Inst02': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.08:674][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.M_Buttercup_Patch_01 Referenced by SM_Buttercup_Patch_01
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.08:674][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01': Can't find file.
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.08:675][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO.M_Buttercup_Patch_01_Inst_NoWPO Referenced by SM_Buttercup_Patch_01
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO': Can't find file.
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.08:675][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01.M_Fern_01 Referenced by SM_Fern_03
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01': Can't find file.
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.08:675][519]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst.M_Fern_01_Inst Referenced by SM_Fern_02
+[2020.01.19-09.54.08:675][519]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/Ferns/M_Fern_01_Inst': Can't find file.
+[2020.01.19-09.54.08:997][519]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2020.01.19-09.54.08:998][519]LogMaterial: Warning: D:\Documentos\GitHub\ProjectSangonaera\Sangonera\Content\MyContent\Tutorial\Vegetacion\KiteDemo\Environments\Foliage\Grass\FieldGrass\M_FieldGrass_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.19-09.54.08:998][519]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.01.19-09.54.08:998][519]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2020.01.19-09.54.09:563][519]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-09.54.09:583][519]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Testing.Testing
+[2020.01.19-09.54.09:610][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.19-09.54.09:611][519]Cmd: MAP LOAD FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.19-09.54.09:611][519]LightingResults: New page: Lighting Build
+[2020.01.19-09.54.09:611][519]LoadErrors: New page: Loading map: Testing.umap
+[2020.01.19-09.54.09:611][519]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-09.54.09:612][519]MapCheck: New page: Map Check
+[2020.01.19-09.54.09:612][519]LightingResults: New page: Lighting Build
+[2020.01.19-09.54.09:635][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.01.19-09.54.09:823][519]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.19-09.54.09:851][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.01.19-09.54.09:890][519]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.19-09.54.09:890][519]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.01.19-09.54.09:890][519]LogFileHelpers: Loading map 'Testing' took 0.279
+[2020.01.19-09.54.18:200][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-09.54.45:580][321]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={692C8E2A-4BFF-95B3-40C2-0FB674CE7CD7}
+[2020.01.19-09.54.45:580][321]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CE14CDBB-4AE7-5FF8-029E-1888F9EAB4C9}
+[2020.01.19-10.02.53:790][333]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.01.19-10.02.53:851][333]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-10.03.06:550][638]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.19-10.03.45:864][338]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={64451B2B-4AEE-74AD-3959-2A86C3515229}
+[2020.01.19-10.03.46:190][374]LogMetaData: Removing '/Game/SistemaInventario/ItemStructure.ItemStructure' ref from Metadata '/Game/SistemaInventario/NewUserDefinedStruct.PackageMetaData'
+[2020.01.19-10.03.46:190][374]LogMetaData: Removing '/Game/SistemaInventario/ItemStructure.ItemStructure:MemberVar_0_9CA677B84E4680BBE666939834AA8628' ref from Metadata '/Game/SistemaInventario/NewUserDefinedStruct.PackageMetaData'
+[2020.01.19-10.03.46:208][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/ItemStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset" SILENT=true
+[2020.01.19-10.03.46:217][374]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemStructureBDC407C947D50A5984F7C592D995397B.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset'
+[2020.01.19-10.03.46:357][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.01.19-10.03.46:382][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.19-10.03.46:403][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.19-10.04.22:115][ 23]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.19-10.04.22:119][ 23]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.19-10.04.35:019][301]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/SistemaInventario/ItemStructure.ItemStructure
+[2020.01.19-10.05.00:209][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.01.19-10.05.00:209][559]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.022
+[2020.01.19-10.05.00:210][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SistemaInventario/InventoryComponent] ([1] browsable assets)...
+[2020.01.19-10.05.00:210][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/SistemaInventario/InventoryComponent]
+[2020.01.19-10.05.00:233][559]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent_Auto11F4245E14D64983B9E56C897AD299DC1.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/SistemaInventario/InventoryComponent_Auto1.uasset'
+[2020.01.19-10.05.00:233][559]LogFileHelpers: Auto-saving content packages took 0.024
+[2020.01.19-10.05.23:480][434]LogSlate: Took 0.005509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.19-10.09.07:412][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/ItemStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset" SILENT=true
+[2020.01.19-10.09.07:794][866]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemStructureCCB1C47E41C7587CD934D095591EB442.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset'
+[2020.01.19-10.09.38:982][ 34]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.19-10.10.00:223][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.Item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.SKEL_Item_C' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.Item_C' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.Item:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.Item:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:223][ 26]LogMetaData: Removing '/Game/SistemaInventario/Item.Item:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SistemaInventario/ItemClass.PackageMetaData'
+[2020.01.19-10.10.00:238][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item.uasset" SILENT=true
+[2020.01.19-10.10.00:247][ 26]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item902ED14D429773D4A4A99D88115D6D3E.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item.uasset'
+[2020.01.19-10.10.00:332][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.19-10.10.00:361][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.19-10.10.00:383][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.19-10.11.57:029][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/ItemStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset" SILENT=true
+[2020.01.19-10.11.57:040][168]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemStructure417123DC4E08E930382A939665CCF867.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset'
+[2020.01.19-10.12.11:079][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.12.13:921][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/ItemStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset" SILENT=true
+[2020.01.19-10.12.13:933][714]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemStructure0FF4891E421F10A257F6C4AD72674860.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item_C' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C:ReceiveBeginPlay' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C:ReceiveTick' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C:DefaultSceneRoot' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.SKEL_Item_C:UserConstructionScript' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:001][ 13]LogMetaData: Removing '/Game/SistemaInventario/Item/Item.Item_C:DefaultSceneRoot' ref from Metadata '/Game/SistemaInventario/Item.PackageMetaData'
+[2020.01.19-10.12.48:014][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.12.48:023][ 13]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemDBE82F5C4EC95BE3E5A0D68FD86AD641.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.12.48:117][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.01.19-10.12.48:142][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.19-10.12.48:163][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.01.19-10.12.48:173][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/ItemStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset" SILENT=true
+[2020.01.19-10.12.48:183][ 13]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemStructure1FE3802F41574AC83856B19BF4C5D97A.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/ItemStructure.uasset'
+[2020.01.19-10.13.02:459][384]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/Item/Item.Item
+[2020.01.19-10.13.02:754][384]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.01.19-10.13.03:654][385]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2020.01.19-10.13.53:272][ 46]LogSlate: Took 0.019341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.19-10.13.53:819][111]BlueprintLog: New page: Compile Item
+[2020.01.19-10.13.54:011][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.19-10.14.35:224][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/InventoryComponent.InventoryComponent
+[2020.01.19-10.14.35:525][640]LogSlate: Took 0.003629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.19-10.16.00:573][354]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-10.16.00:608][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.01.19-10.16.01:308][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-10.16.01:331][435]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent865F742A49E05648E0BA378A647A6351.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-10.16.34:374][535]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/SistemaInventario/SlotStructure.SlotStructure
+[2020.01.19-10.16.58:982][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.19-10.16.58:982][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.037
+[2020.01.19-10.16.58:984][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SistemaInventario/Item/Item] ([1] browsable assets)...
+[2020.01.19-10.16.58:984][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/SistemaInventario/Item/Item]
+[2020.01.19-10.16.59:016][691]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item_Auto23CE673DF4CF0155C27FCF788C7AACA3D.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/SistemaInventario/Item/Item_Auto2.uasset'
+[2020.01.19-10.16.59:016][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SistemaInventario/SlotStructure] ([1] browsable assets)...
+[2020.01.19-10.16.59:017][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/SistemaInventario/SlotStructure]
+[2020.01.19-10.16.59:023][691]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/SlotStructure_Auto2AFB1294D44A7FFD00566FA8181CEF05F.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/SistemaInventario/SlotStructure_Auto2.uasset'
+[2020.01.19-10.16.59:024][691]LogFileHelpers: Auto-saving content packages took 0.040
+[2020.01.19-10.17.47:007][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/SlotStructure" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/SlotStructure.uasset" SILENT=true
+[2020.01.19-10.17.47:013][255]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/SlotStructureE2F72E754A35D9191CE4AA83F4D1B225.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/SlotStructure.uasset'
+[2020.01.19-10.18.07:925][663]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-10.18.07:926][663]LogClass: Warning: Type mismatch in Inventory of InventoryComponent_C - Previous (IntProperty) Current(StructProperty) for package:  FObjectReader
+[2020.01.19-10.18.07:959][663]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.01.19-10.18.08:723][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-10.18.08:741][751]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent14182AAE4DC55CCAF943AEA1346A7544.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-10.18.27:673][654]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-10.18.27:674][654]LogClass: Warning: Type mismatch in Inventory of InventoryComponent_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.01.19-10.18.27:705][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.19-10.18.28:445][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-10.18.28:461][740]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent47C4A2C4434CEC732647438A038E1514.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-10.18.56:153][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.18.56:165][681]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemE6BA80BE4533FB5BEC4BF18422D65C59.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.18.59:353][ 57]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.18.59:837][106]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.19.11:398][344]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.RagnarCharacter
+[2020.01.19-10.20.14:658][216]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Inventory.Inventory
+[2020.01.19-10.20.42:348][862]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.20.42:667][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.01.19-10.20.43:250][897]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacterDD055A624BA8C4FA9295A594A6DC67AE.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.21.55:599][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/Interact_Interface.Interact_Interface
+[2020.01.19-10.22.15:960][742]BlueprintLog: New page: Compile Interact_Interface
+[2020.01.19-10.22.15:994][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.19-10.22.16:460][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Interact_Interface" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Interact_Interface.uasset" SILENT=true
+[2020.01.19-10.22.16:467][796]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Interact_InterfaceC89D71ED47B28F12023604AD638561C2.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Interact_Interface.uasset'
+[2020.01.19-10.22.18:521][ 38]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.22.20:423][263]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.22.20:447][263]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.22.32:493][630]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/Item/Item.Item
+[2020.01.19-10.23.01:478][635]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.23.32:302][ 21]BlueprintLog: New page: Compile Item
+[2020.01.19-10.23.32:564][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.01.19-10.23.32:943][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.23.32:962][ 64]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemA7A6D0FC49A18490BC58CCA338FD7FF7.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.24.20:080][285]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.19-10.24.20:094][285]LogHoudiniEngine: Error: Hapi failed: 
+[2020.01.19-10.26.12:970][362]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.26.12:974][362]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.27.17:980][583]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.27.44:266][886]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.01.19-10.27.44:266][886]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.080
+[2020.01.19-10.27.44:267][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SistemaInventario/Item/Item] ([1] browsable assets)...
+[2020.01.19-10.27.44:267][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/SistemaInventario/Item/Item]
+[2020.01.19-10.27.44:282][886]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item_Auto3C2DEE2BC4A7B2FC73BC69991A08A5A83.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/SistemaInventario/Item/Item_Auto3.uasset'
+[2020.01.19-10.27.44:344][886]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter] ([1] browsable assets)...
+[2020.01.19-10.27.44:363][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.RagnarCharacter]
+[2020.01.19-10.27.44:363][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter]
+[2020.01.19-10.27.44:445][886]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacter_Auto3D903E4E9490FEA0B64B1D283554014FB.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter_Auto3.uasset'
+[2020.01.19-10.27.44:484][886]LogFileHelpers: Auto-saving content packages took 0.218
+[2020.01.19-10.32.02:083][335]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.32.02:100][335]LogBlueprint: Error: [Compiler RagnarCharacter] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.01.19-10.32.02:429][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.01.19-10.32.03:003][382]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacterC8F982244A3E19B0AE4E5CA7DC910C3E.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.32.39:580][632]BlueprintLog: New page: Compile Item
+[2020.01.19-10.32.39:882][632]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.01.19-10.32.40:690][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.32.40:711][727]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item185F171941490FD9BA3996BD33159106.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.33.04:810][ 78]BlueprintLog: New page: Compile Item
+[2020.01.19-10.33.05:115][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.01.19-10.33.05:547][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.33.05:562][128]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemFE0B6A304CFCB8A56FDC66BA773BE816.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.34.02:788][815]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-10.34.34:064][359]BlueprintLog: New page: Compile Item
+[2020.01.19-10.34.34:379][359]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.01.19-10.34.34:812][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset" SILENT=true
+[2020.01.19-10.34.34:826][406]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ItemD617EDF5435943F08A511BB629916951.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item.uasset'
+[2020.01.19-10.35.07:316][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.SKEL_Item_Herb_C' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb_C' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:316][564]LogMetaData: Removing '/Game/SistemaInventario/Item/Item_Herb.Item_Herb:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/SistemaInventario/Item/Item_Child.PackageMetaData'
+[2020.01.19-10.35.07:332][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item_Herb" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset" SILENT=true
+[2020.01.19-10.35.07:347][564]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item_Herb167BBA354110C6B14FEAAF842EB9A5EC.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset'
+[2020.01.19-10.35.07:542][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.01.19-10.35.07:588][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.19-10.35.07:628][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.01.19-10.35.13:760][823]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/Item/Item_Herb.Item_Herb
+[2020.01.19-10.36.00:742][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:743][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:744][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:744][921]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat.BogMyrtle_01_Fronds_Mat Referenced by BogMyrtleBush_01
+[2020.01.19-10.36.00:744][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat': Can't find file.
+[2020.01.19-10.36.00:744][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:744][921]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard.MI_BogMyrtleBush_01_Billboard Referenced by BogMyrtleBush_01
+[2020.01.19-10.36.00:744][921]LogLinker: Warning: While loading 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset' failed to load '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard': Can't find file.
+[2020.01.19-10.36.00:818][921]LogStaticMesh: Building static mesh BogMyrtleBush_01...
+[2020.01.19-10.36.01:573][921]LogStaticMesh: Built static mesh [0.76s] /Game/MyContent/Tutorial/Vegetacion/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01
+[2020.01.19-10.36.32:427][603]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.19-10.36.33:384][687]BlueprintLog: New page: Compile Item_Herb
+[2020.01.19-10.36.33:784][687]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.01.19-10.36.33:896][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item_Herb" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset" SILENT=true
+[2020.01.19-10.36.33:917][696]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item_Herb1F396F0B44E02CBE2520FBA8115E4B35.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset'
+[2020.01.19-10.36.59:785][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.36.59:894][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.36.59:950][957]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.01.19-10.37.00:351][957]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing91EFA450495ED3A3052AF8B8D1A4CB0A.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.37.00:404][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.37.00:503][957]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltDataF5484D6B44CCF106EE43C097EF4D59A0.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.37.06:001][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.37.06:050][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.37.06:050][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.37.06:050][606]BlueprintLog: Warning: Blueprint failed to compile:  RagnarCharacter
+[2020.01.19-10.37.06:051][606]LogCustomDialog: Dialog displayed:
+[2020.01.19-10.37.12:723][606]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.01.19-10.37.14:738][846]LogSlate: Window 'Message Log' being destroyed
+[2020.01.19-10.37.14:742][846]LogSlate: Window 'Message Log' being destroyed
+[2020.01.19-10.38.47:980][143]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.38.47:997][143]LogBlueprint: Error: [Compiler RagnarCharacter] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.01.19-10.38.48:370][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.01.19-10.39.48:961][114]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.39.49:337][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.01.19-10.39.50:461][222]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacter1CB408C04FA929E43464CAB3CD498773.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.39.52:572][467]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.39.52:597][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.39.52:597][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.39.52:611][467]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:39:52 PM)
+[2020.01.19-10.39.52:612][467]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.19-10.39.52:612][467]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.39.52:666][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053465s)
+[2020.01.19-10.39.52:667][467]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.39.52:667][467]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2020.01.19-10.39.52:667][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.054509s)
+[2020.01.19-10.39.52:720][467]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.01.19-10.39.52:729][467]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.39.52:739][467]LogInit: FAudioDevice initialized.
+[2020.01.19-10.39.52:745][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.39.52:759][467]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.39.52:761][467]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.39.52
+[2020.01.19-10.39.52:763][467]LogWorld: Bringing up level for play took: 0.003593
+[2020.01.19-10.39.52:763][467]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.01.19-10.39.52:801][467]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.19-10.39.52:806][467]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.113
+[2020.01.19-10.39.52:806][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.39.52:830][468]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.01.19-10.40.08:536][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.08:550][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.08:550][ 21]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.08:569][ 21]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.40.08:575][ 21]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.40.08:585][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.40.08:585][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.08:687][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.01.19-10.40.08:707][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.19-10.40.14:763][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.19-10.40.15:482][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.19-10.40.15:918][874]LogEditorViewport: Clicking on Actor (LMB): Item_Herb_C (Item_Herb)
+[2020.01.19-10.40.19:044][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.40.19:170][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.40.19:245][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.01.19-10.40.19:623][259]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing41B6588A49E1ACFBF62C5AAA5145E75C.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.40.19:667][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.40.19:738][259]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltData87D445904E21C3B132E7B2888670C18B.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.40.20:857][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.40.20:890][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.20:890][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.40.20:890][384]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:40:20 PM)
+[2020.01.19-10.40.20:890][384]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.20:923][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032258s)
+[2020.01.19-10.40.20:923][384]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.40.20:924][384]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.01.19-10.40.20:924][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.033113s)
+[2020.01.19-10.40.20:974][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.01.19-10.40.20:983][384]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.40.20:992][384]LogInit: FAudioDevice initialized.
+[2020.01.19-10.40.20:999][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.20:999][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.40.21:002][384]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.40.21
+[2020.01.19-10.40.21:003][384]LogWorld: Bringing up level for play took: 0.003316
+[2020.01.19-10.40.21:003][384]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.01.19-10.40.21:008][384]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing 0.089
+[2020.01.19-10.40.21:009][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.30:944][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.30:944][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.30:944][574]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.30:970][574]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.40.30:974][574]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.40.30:986][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.40.30:986][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.31:042][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.01.19-10.40.31:057][575]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.19-10.40.35:730][133]LogEditorViewport: Clicking on Actor (LMB): Item_Herb_C (Item_Herb)
+[2020.01.19-10.40.40:785][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.40.40:895][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.40.40:944][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.19-10.40.41:357][731]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/TestingF2681C904DD23D245302949F4CE773DB.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.40.41:399][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.40.41:466][731]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltData5168529F471D1E5B0FA4B584C6030657.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.40.41:964][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.40.41:988][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.41:988][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.40.41:989][780]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:40:41 PM)
+[2020.01.19-10.40.41:989][780]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.42:021][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033378s)
+[2020.01.19-10.40.42:022][780]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.40.42:022][780]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2020.01.19-10.40.42:022][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.034229s)
+[2020.01.19-10.40.42:075][780]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.01.19-10.40.42:085][780]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.40.42:095][780]LogInit: FAudioDevice initialized.
+[2020.01.19-10.40.42:100][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.42:100][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.40.42:103][780]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.40.42
+[2020.01.19-10.40.42:104][780]LogWorld: Bringing up level for play took: 0.003054
+[2020.01.19-10.40.42:104][780]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.01.19-10.40.42:108][780]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.81
+[2020.01.19-10.40.42:109][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.49:749][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.49:749][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.49:749][695]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.49:776][695]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.40.49:781][695]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.40.49:789][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.40.49:790][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.49:854][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.01.19-10.40.49:867][696]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.19-10.40.50:967][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.01.19-10.40.51:623][903]LogEditorViewport: Clicking on Actor (LMB): Item_Herb_C (Item_Herb)
+[2020.01.19-10.40.53:798][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.40.54:184][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.40.54:236][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.19-10.40.54:597][205]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing211581AC47627620AAD6C29407280220.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.40.54:643][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.40.54:713][205]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltData8C68C5AE4D129FBD4E0DAB990C506053.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.40.55:142][246]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.40.55:167][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.40.55:168][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.40.55:168][246]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:40:55 PM)
+[2020.01.19-10.40.55:168][246]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.40.55:205][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036936s)
+[2020.01.19-10.40.55:205][246]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.40.55:206][246]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2020.01.19-10.40.55:206][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.037808s)
+[2020.01.19-10.40.55:251][246]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.01.19-10.40.55:260][246]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.40.55:272][246]LogInit: FAudioDevice initialized.
+[2020.01.19-10.40.55:278][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.40.55:279][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.40.55:281][246]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.40.55
+[2020.01.19-10.40.55:283][246]LogWorld: Bringing up level for play took: 0.003382
+[2020.01.19-10.40.55:283][246]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.19-10.40.55:287][246]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing 0.368
+[2020.01.19-10.40.55:287][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.41.01:281][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.41.01:281][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.41.01:281][963]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.41.01:301][963]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.41.01:305][963]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.41.01:313][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.41.01:313][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.41.01:373][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.01.19-10.41.01:386][964]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.19-10.44.12:835][726]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.45.01:038][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.19-10.45.15:207][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.45.15:282][695]BlueprintLog: New page: Compile Item_Herb
+[2020.01.19-10.45.15:741][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.01.19-10.45.16:438][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/Item/Item_Herb" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset" SILENT=true
+[2020.01.19-10.45.16:459][774]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Item_Herb35EBE0E240581BA3C716EE9083DA8FC4.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/Item/Item_Herb.uasset'
+[2020.01.19-10.45.22:435][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.46.04:571][472]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.46.16:472][883]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.46.16:495][883]LogBlueprint: Error: [Compiler RagnarCharacter] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.01.19-10.46.16:829][883]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.01.19-10.46.19:399][182]LogEditorTransaction: Undo Delete current selection
+[2020.01.19-10.46.21:426][416]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.46.21:752][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.01.19-10.46.22:669][503]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacter8D4A124444290529317C3E94C766A10A.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.46.28:198][162]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.46.28:224][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.46.28:224][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.46.28:224][162]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:46:28 PM)
+[2020.01.19-10.46.28:224][162]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.46.28:262][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038747s)
+[2020.01.19-10.46.28:263][162]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.46.28:263][162]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2020.01.19-10.46.28:263][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.039837s)
+[2020.01.19-10.46.28:307][162]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.01.19-10.46.28:315][162]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.46.28:325][162]LogInit: FAudioDevice initialized.
+[2020.01.19-10.46.28:331][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.46.28:331][162]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.46.28:334][162]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.46.28
+[2020.01.19-10.46.28:335][162]LogWorld: Bringing up level for play took: 0.003439
+[2020.01.19-10.46.28:336][162]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.19-10.46.28:342][162]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.577
+[2020.01.19-10.46.28:342][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.46.34:275][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.46.34:275][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.46.34:276][851]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.46.34:297][851]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.46.34:303][851]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.46.34:315][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.46.34:315][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.46.34:362][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.01.19-10.46.34:386][852]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.19-10.46.41:335][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.46.41:378][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.19-10.46.41:714][684]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing2655173342DBEF178DFECB94F250DDE5.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.46.41:757][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.46.41:834][684]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltData4CDC76F44FFBAA9DFE7FA197583A5FDF.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.46.44:674][ 18]LogEditorViewport: Clicking on Actor (LMB): Item_Herb_C (Item_Herb)
+[2020.01.19-10.46.47:901][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.19-10.46.48:003][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.19-10.46.48:049][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.19-10.46.48:379][412]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing523F11364E051007EAC33D908E755696.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing.umap'
+[2020.01.19-10.46.48:429][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Testing_BuiltData" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset" SILENT=true
+[2020.01.19-10.46.48:507][412]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Testing_BuiltData6C82183C436F9720AF6C88B94DBF4F8B.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/Scenes/Testing_BuiltData.uasset'
+[2020.01.19-10.46.49:800][559]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.46.49:824][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.46.49:824][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.46.49:824][559]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:46:49 PM)
+[2020.01.19-10.46.49:824][559]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.46.49:857][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032988s)
+[2020.01.19-10.46.49:858][559]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.46.49:858][559]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2020.01.19-10.46.49:858][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.033860s)
+[2020.01.19-10.46.49:899][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.01.19-10.46.49:907][559]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.46.49:917][559]LogInit: FAudioDevice initialized.
+[2020.01.19-10.46.49:923][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.46.49:923][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.46.49:926][559]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.46.49
+[2020.01.19-10.46.49:927][559]LogWorld: Bringing up level for play took: 0.003385
+[2020.01.19-10.46.49:927][559]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.19-10.46.49:931][559]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing 1.013
+[2020.01.19-10.46.49:932][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.01:091][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.01:091][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.47.01:091][892]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.47.01:111][892]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.47.01:115][892]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.47.01:123][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.47.01:124][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.01:175][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.19-10.47.01:191][893]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.19-10.47.06:414][428]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.19-10.47.06:421][428]LogHoudiniEngine: Error: Hapi failed: 
+[2020.01.19-10.47.33:825][657]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.47.33:829][657]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.47.36:536][979]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.47.36:560][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.36:561][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.47.36:561][979]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:47:36 PM)
+[2020.01.19-10.47.36:561][979]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.47.36:595][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034124s)
+[2020.01.19-10.47.36:596][979]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.47.36:596][979]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2020.01.19-10.47.36:596][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.035043s)
+[2020.01.19-10.47.36:638][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.01.19-10.47.36:646][979]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.47.36:655][979]LogInit: FAudioDevice initialized.
+[2020.01.19-10.47.36:662][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.47.36:662][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.47.36:665][979]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.47.36
+[2020.01.19-10.47.36:666][979]LogWorld: Bringing up level for play took: 0.003558
+[2020.01.19-10.47.36:666][979]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.01.19-10.47.36:670][979]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.248
+[2020.01.19-10.47.36:671][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.57:010][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.57:010][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.47.57:010][411]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.47.57:031][411]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.47.57:035][411]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.47.57:043][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.47.57:043][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.47.57:101][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.19-10.47.57:113][412]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.19-10.48.04:584][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.48.07:825][688]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.48.08:140][688]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.01.19-10.48.08:739][738]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacter1D5612684E351C61018885A8DC5CEED0.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.48.38:167][187]BlueprintLog: New page: Compile RagnarCharacter
+[2020.01.19-10.48.38:494][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.01.19-10.48.40:057][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-10.48.40:081][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.48.40:082][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.19-10.48.40:082][364]PIE: New page: PIE session: Testing (Jan 19, 2020, 12:48:40 PM)
+[2020.01.19-10.48.40:082][364]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.48.40:114][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032050s)
+[2020.01.19-10.48.40:114][364]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-10.48.40:115][364]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2020.01.19-10.48.40:115][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.032882s)
+[2020.01.19-10.48.40:159][364]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.01.19-10.48.40:167][364]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-10.48.40:178][364]LogInit: FAudioDevice initialized.
+[2020.01.19-10.48.40:184][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.48.40:184][364]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-10.48.40:187][364]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-11.48.40
+[2020.01.19-10.48.40:188][364]LogWorld: Bringing up level for play took: 0.003104
+[2020.01.19-10.48.40:188][364]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.19-10.48.40:192][364]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.727
+[2020.01.19-10.48.40:192][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.48.44:035][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.48.44:036][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-10.48.44:036][824]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-10.48.44:055][824]LogSlate: Window 'Sangonera Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.19-10.48.44:059][824]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-10.48.44:069][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.19-10.48.44:070][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-10.48.44:128][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.01.19-10.48.44:141][825]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.19-10.51.11:678][940]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/RagnarCharacter206140B0419E3ABDD9F5F687D28E48A7.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.uasset'
+[2020.01.19-10.52.28:778][303]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.19-10.52.41:754][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ragnar/JugadorController.JugadorController
+[2020.01.19-10.53.16:409][749]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.53.22:010][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.54.06:198][351]BlueprintLog: New page: Compile JugadorController
+[2020.01.19-10.54.06:532][351]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.01.19-10.54.06:850][385]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/JugadorController2B426B484645ED73B5D2579C9244FC3A.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/ThirdPersonBP/Blueprints/Ragnar/JugadorController.uasset'
+[2020.01.19-10.54.23:455][796]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.19-10.54.23:463][796]LogHoudiniEngine: Error: Hapi failed: 
+[2020.01.19-10.54.29:831][318]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-10.54.42:158][125]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.54.42:163][125]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.19-10.57.24:052][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.01.19-10.57.24:053][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.050
+[2020.01.19-10.57.24:054][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2020.01.19-10.57.24:054][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2020.01.19-10.57.24:073][412]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/ThirdPersonGameMode_Auto44F5CE01F4A03288185D8B59177FC3FD4.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto4.uasset'
+[2020.01.19-10.57.24:074][412]LogFileHelpers: Auto-saving content packages took 0.020
+[2020.01.19-11.01.17:776][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.01.19-11.01.19:053][803]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.19-11.01.19:134][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.19-11.01.28:217][150]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Prueba/InventorySlot.InventorySlot
+[2020.01.19-11.02.35:169][ 37]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.02.36:045][132]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.19-11.02.36:046][132]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.02.44:132][ 80]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Inventory.Inventory
+[2020.01.19-11.04.03:687][698]LogSlate: Window 'Inventory' being destroyed
+[2020.01.19-11.04.07:732][183]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.19-11.08.07:675][198]BlueprintLog: New page: Compile InventorySlot
+[2020.01.19-11.08.07:763][198]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.19-11.08.08:169][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Prueba/InventorySlot" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Prueba/InventorySlot.uasset" SILENT=true
+[2020.01.19-11.08.08:182][240]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventorySlot820044854C54791028AFCF9974534D1F.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Prueba/InventorySlot.uasset'
+[2020.01.19-11.09.04:871][892]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.09.38:814][775]LogEditorTransaction: Undo Add Widget
+[2020.01.19-11.09.39:105][809]LogEditorTransaction: Undo Add Widget
+[2020.01.19-11.09.39:466][852]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.09.40:637][992]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.09.40:638][992]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.09.40:638][992]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1 or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1 or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be Image /Game/UI/Inventory.Inventory:WidgetTree.Image_338 or Image /Game/UI/Inventory.Inventory:WidgetTree.Image_338
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be Image /Game/UI/Inventory.Inventory:WidgetTree.Image_647 or Image /Game/UI/Inventory.Inventory:WidgetTree.Image_647
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_73 or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_73
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1 or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock
+[2020.01.19-11.09.52:515][398]LogUObjectHash: Warning: Ambiguous search, could be TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1 or TextBlock /Game/UI/Inventory.Inventory:WidgetTree.TextBlock_1
+[2020.01.19-11.09.52:565][398]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.09.52:565][398]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.09.54:131][580]LogEditorTransaction: Undo Paste clipboard contents
+[2020.01.19-11.09.54:135][580]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.09.54:135][580]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.07:314][148]LogEditorTransaction: Redo Paste clipboard contents
+[2020.01.19-11.10.07:318][148]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.10.07:318][148]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.08:344][267]LogEditorTransaction: Undo Paste clipboard contents
+[2020.01.19-11.10.08:347][267]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.10.08:348][267]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_5 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_5
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_5 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_5
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_6 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_6
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_7 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_7
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_8 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_8
+[2020.01.19-11.10.34:078][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_9 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_9
+[2020.01.19-11.10.34:079][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_6 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_6
+[2020.01.19-11.10.34:079][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_7 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_7
+[2020.01.19-11.10.34:079][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_8 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_8
+[2020.01.19-11.10.34:079][335]LogUObjectHash: Warning: Ambiguous search, could be WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_9 or WidgetSlotPair /Engine/UMG/Editor/Transient.WidgetSlotPair_9
+[2020.01.19-11.10.47:501][938]LogEditorTransaction: Undo Add Widget
+[2020.01.19-11.10.47:798][973]LogEditorTransaction: Undo Add Widget
+[2020.01.19-11.10.48:263][ 28]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.10.48:634][ 72]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.10.48:635][ 72]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.10.48:635][ 72]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.55:925][946]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.10.55:925][946]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.10.55:925][946]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope SKEL_Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.55:926][946]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_647 in scope Inventory_C, but another object (ObjectProperty Image_647) already exists there.
+[2020.01.19-11.10.55:926][946]LogBlueprint: Error: [Compiler Inventory] Internal Compiler Error: Tried to create a property Image_338 in scope Inventory_C, but another object (ObjectProperty Image_338) already exists there.
+[2020.01.19-11.10.56:001][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.01.19-11.11.01:244][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset" SILENT=true
+[2020.01.19-11.11.01:265][571]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Inventory818FF13F4FFE7DC87F639682C0CBF446.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset'
+[2020.01.19-11.11.03:554][845]LogEditorTransaction: Undo Remove Widget
+[2020.01.19-11.11.06:518][199]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.11.06:553][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.19-11.15.51:586][674]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.15.51:628][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.01.19-11.15.52:477][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset" SILENT=true
+[2020.01.19-11.15.52:490][768]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Inventory936FF03A4E936B63B0C5FB8042ACFF45.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset'
+[2020.01.19-11.18.24:837][932]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.18.24:875][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.19-11.19.14:088][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.01.19-11.19.14:088][255]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.040
+[2020.01.19-11.19.14:088][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Inventory] ([1] browsable assets)...
+[2020.01.19-11.19.14:088][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Inventory]
+[2020.01.19-11.19.14:088][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/Inventory_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.01.19-11.19.14:109][255]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Inventory_Auto5FE30F88943AF910F25562AB41340DC5C.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/Inventory_Auto5.uasset'
+[2020.01.19-11.19.14:489][255]LogFileHelpers: Auto-saving content packages took 0.401
+[2020.01.19-11.21.19:784][ 77]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-11.23.33:033][350]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.23.33:084][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.19-11.23.33:600][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset" SILENT=true
+[2020.01.19-11.23.33:621][408]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryFADA93FC4BB29B391F3F15B4A9E5FB49.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset'
+[2020.01.19-11.26.33:381][808]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Divide_IntInt' [No se puede encontrar el módulo especificado.]
+[2020.01.19-11.27.45:910][416]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.27.45:950][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.01.19-11.28.42:673][739]BlueprintLog: New page: Compile Inventory
+[2020.01.19-11.28.42:712][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.01.19-11.28.43:279][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Inventory" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset" SILENT=true
+[2020.01.19-11.28.43:303][803]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Inventory83A9214D4AE46EC5A77CC28BA6B9CE3F.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/Inventory.uasset'
+[2020.01.19-11.29.31:838][655]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.19-11.29.31:838][655]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.29.32:209][693]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.29.32:242][693]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.29.32:614][732]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.29.32:648][732]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.30.09:818][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SistemaInventario/InventoryComponent.InventoryComponent
+[2020.01.19-11.30.49:432][517]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-11.33.37:819][147]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.33.38:073][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.01.19-11.33.38:620][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-11.33.38:640][209]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent2F7C038948A0E333C346258D4920A0A1.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-11.33.57:090][394]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2020.01.19-11.33.59:609][657]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.33.59:630][657]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.01.19-11.34.05:740][374]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Inventory.Inventory
+[2020.01.19-11.35.03:958][794]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD.HUD
+[2020.01.19-11.35.27:898][617]BlueprintLog: New page: Compile HUD
+[2020.01.19-11.35.28:115][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.19-11.35.28:364][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.19-11.35.28:384][643]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/HUD4D9E573B44B5B86E4F60E2A05D3183F0.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.19-11.38.39:358][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.01.19-11.38.39:358][177]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Testing' took 0.038
+[2020.01.19-11.38.39:360][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD] ([1] browsable assets)...
+[2020.01.19-11.38.39:360][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD]
+[2020.01.19-11.38.39:360][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/HUD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.01.19-11.38.39:377][177]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/HUD_Auto671C034E24BED32A7762CA79BB8908EFB.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/Autosaves/Game/UI/HUD_Auto6.uasset'
+[2020.01.19-11.38.39:378][177]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.01.19-11.40.01:300][  5]BlueprintLog: New page: Compile HUD
+[2020.01.19-11.40.01:342][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.19-11.40.01:914][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset" SILENT=true
+[2020.01.19-11.40.01:929][ 67]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/HUD14C0C9784888F9CDFD823494D31177A6.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/UI/HUD.uasset'
+[2020.01.19-11.41.27:183][265]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.41.27:404][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.01.19-11.41.27:888][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-11.41.27:909][317]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent85F5EF8A4BF0951615344B92E5A27748.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-11.41.32:228][833]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.41.32:462][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.01.19-11.41.32:868][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-11.41.32:886][875]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponent7CF957FD4C12C2932A96E7A028CB48A8.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-11.41.56:998][ 26]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ragnar/JugadorController.JugadorController
+[2020.01.19-11.42.33:708][252]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Ragnar/RagnarCharacter.RagnarCharacter
+[2020.01.19-11.44.11:420][784]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.44.11:691][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.01.19-11.44.12:514][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SistemaInventario/InventoryComponent" FILE="D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset" SILENT=true
+[2020.01.19-11.44.12:535][875]LogSavePackage: Moving 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Saved/InventoryComponentB97E787F4E70BE2BDC93C582A4466325.tmp' to 'D:/Documentos/GitHub/ProjectSangonaera/Sangonera/Content/SistemaInventario/InventoryComponent.uasset'
+[2020.01.19-11.45.22:111][704]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.45.22:352][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.19-11.45.38:486][629]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.19-11.45.38:757][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.01.19-11.45.50:519][367]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.19-11.45.56:404][ 71]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.19-11.45.56:439][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-11.45.56:440][ 71]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.19-11.45.56:442][ 71]LogPlayLevel: [PlayLevel] Compiling RagnarCharacter before play...
+[2020.01.19-11.45.56:719][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.01.19-11.45.56:719][ 71]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2020.01.19-11.45.56:719][ 71]PIE: New page: PIE session: Testing (Jan 19, 2020, 1:45:56 PM)
+[2020.01.19-11.45.56:719][ 71]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Testing
+[2020.01.19-11.45.56:757][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037233s)
+[2020.01.19-11.45.56:758][ 71]LogAIModule: Creating AISystem for world Testing
+[2020.01.19-11.45.56:758][ 71]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.01.19-11.45.56:758][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Testing.Testing to /Game/Scenes/UEDPIE_0_Testing.Testing (0.038320s)
+[2020.01.19-11.45.56:793][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.01.19-11.45.56:801][ 71]LogInit: XAudio2 using 'Altavoces (2- USB Advanced Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.19-11.45.56:811][ 71]LogInit: FAudioDevice initialized.
+[2020.01.19-11.45.56:819][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.19-11.45.56:819][ 71]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.19-11.45.56:822][ 71]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2020.01.19-12.45.56
+[2020.01.19-11.45.56:823][ 71]LogWorld: Bringing up level for play took: 0.003128
+[2020.01.19-11.45.56:823][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.01.19-11.45.56:841][ 71]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Testing -0.077
+[2020.01.19-11.45.56:842][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/Testing.Testing:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/Testing.Testing:PersistentLevel.Testing' with GeneratedClass '/Game/Scenes/Testing.Testing_C' with ClassGeneratedBy '/Game/Scenes/Testing.Testing:PersistentLevel.Testing'
+[2020.01.19-11.46.02:345][723]LogScript: Warning: Attempted to access index 0 from array Inventory of length 0!
+	Inventory_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.Inventory_C_0
+	Function /Game/UI/Inventory.Inventory_C:ExecuteUbergraph_Inventory:00D5
+[2020.01.19-11.46.02:345][723]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array Inventory of length 0!". Blueprint:  Inventory Function:  Execute Ubergraph Inventory Graph:  EventGraph Node:  Create Widget
+[2020.01.19-11.46.02:360][723]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+Inventory_C.ExecuteUbergraph_Inventory
+Inventory_C.Construct
+InventoryComponent_C.ToggleInventory
+RagnarCharacter_C.ExecuteUbergraph_RagnarCharacter
+RagnarCharacter_C.InpActEvt_Inventario_K2Node_InputActionEvent_0
+
+[2020.01.19-11.46.02:360][723]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
